@@ -1,0 +1,38 @@
+[
+ {
+  "file": "iso7001/iso-7001-pi-tf-018.png",
+  "category": "customs"
+ },
+ {
+  "file": "osm-carto/parking-entrance-multistorey.png",
+  "category": "parking"
+ },
+ {
+  "file": "osm-carto/parking-entrance-underground.png",
+  "category": "parking"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-tf-017.png",
+  "category": "transfer_desk"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-tf-027.png",
+  "category": "bus"
+ },
+ {
+  "file": "material/airport-shuttle.png",
+  "category": "bus"
+ },
+ {
+  "file": "material/departure-board.png",
+  "category": "flight_info"
+ },
+ {
+  "file": "osm-carto/parking-tickets.png",
+  "category": "parking_payment"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-006.png",
+  "category": "toilet_accessible"
+ }
+]

@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mapdiff"
+version = "0.1.0"
+description = "Agentic understanding and change detection for airport floorplans (PDF / image)"
+requires-python = ">=3.12"
+dependencies = [
+    "anthropic>=2.1",
+    "pymupdf>=1.26",
+    "pillow>=11",
+    "pydantic>=2.7",
+    "numpy>=2",
+    "scipy>=1.13",
+    "rapidfuzz>=3",
+    "opencv-python-headless>=4.9",
+    "rapidocr_onnxruntime>=1.4",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[project.scripts]
+mapdiff = "mapdiff.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

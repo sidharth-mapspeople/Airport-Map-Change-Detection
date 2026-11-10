@@ -1,0 +1,48 @@
+[
+ {
+  "file": "rejected/5dec08b79711.png",
+  "meaning": "Coach drop-off and pick-up",
+  "category": "bus",
+  "sources": [
+   "eval-auckland-airport v1",
+   "eval-auckland-airport v2"
+  ],
+  "reason": "legend row mix-up: car-and-person icon labelled Coach drop-off"
+ },
+ {
+  "file": "rejected/1c600ce975cd.png",
+  "meaning": "Check-In",
+  "category": "check_in",
+  "sources": [
+   "eval-brussels-airport-departure v3"
+  ],
+  "reason": "number tile '14', not an icon"
+ },
+ {
+  "file": "rejected/abb944f788eb.png",
+  "meaning": "Currency Exchange",
+  "category": "currency_exchange",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v3"
+  ],
+  "reason": "plain colour swatch, not an icon"
+ },
+ {
+  "file": "rejected/8368ae5586c6.png",
+  "meaning": "Bike parking - lockydock",
+  "category": null,
+  "sources": [
+   "eval-auckland-domestic-terminal-forecourt v2"
+  ],
+  "reason": "crop of three stacked icons"
+ },
+ {
+  "file": "rejected/5f67be6d35b7.png",
+  "meaning": "Motorbike parking",
+  "category": null,
+  "sources": [
+   "eval-auckland-domestic-terminal-forecourt v2"
+  ],
+  "reason": "crop of two stacked icons"
+ }
+]

@@ -1,0 +1,2394 @@
+[
+ {
+  "file": "maki/defibrillator.png",
+  "meaning": "defibrillator",
+  "category": "aed",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/defibrillator.svg"
+ },
+ {
+  "file": "aiga/aiga-cashier.png",
+  "meaning": "cashier",
+  "category": "atm",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aiga_cashier.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-cf-005.png",
+  "meaning": "Cash service or cash dispenser or ATM (automatic teller machine)",
+  "category": "atm",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_CF_005.svg"
+ },
+ {
+  "file": "material/atm.png",
+  "meaning": "atm",
+  "category": "atm",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/atm/materialsymbolsoutlined/atm_48px.svg"
+ },
+ {
+  "file": "material/local-atm.png",
+  "meaning": "local atm",
+  "category": "atm",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/local_atm/materialsymbolsoutlined/local_atm_48px.svg"
+ },
+ {
+  "file": "osm-carto/atm.png",
+  "meaning": "atm",
+  "category": "atm",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/amenity/atm.svg"
+ },
+ {
+  "file": "temaki/atm.png",
+  "meaning": "atm",
+  "category": "atm",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/atm.svg"
+ },
+ {
+  "file": "temaki/atm2.png",
+  "meaning": "atm2",
+  "category": "atm",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/atm2.svg"
+ },
+ {
+  "file": "aiga/aiga-nursery.png",
+  "meaning": "nursery",
+  "category": "baby_care",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aiga_nursery.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-ac-023.png",
+  "meaning": "Universal changing place",
+  "category": "baby_care",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_AC_023.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-023.png",
+  "meaning": "Nursery or baby care",
+  "category": "baby_care",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_PF_023.svg"
+ },
+ {
+  "file": "material/baby-changing-station.png",
+  "meaning": "baby changing station",
+  "category": "baby_care",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/baby_changing_station/materialsymbolsoutlined/baby_changing_station_48px.svg"
+ },
+ {
+  "file": "aiga/aiga-arrivingflights.png",
+  "meaning": "arrivingflights",
+  "category": "baggage_claim",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aiga_arrivingflights.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-tf-020.png",
+  "meaning": "Baggage reclaim",
+  "category": "baggage_claim",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_TF_020.svg"
+ },
+ {
+  "file": "aiga/aiga-baggage-check-in.png",
+  "meaning": "baggage check in",
+  "category": "baggage_drop",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aiga_baggage_check_in.svg"
+ },
+ {
+  "file": "aiga/aiga-baggagelockers.png",
+  "meaning": "baggagelockers",
+  "category": "baggage_service",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aiga_baggagelockers.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-013.png",
+  "meaning": "Baggage lockers or coin lockers",
+  "category": "baggage_service",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_PF_013.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-018.png",
+  "meaning": "Baggage trolleys or carts",
+  "category": "baggage_service",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_PF_018.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-068.png",
+  "meaning": "Baggage delivery",
+  "category": "baggage_service",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_PF_068.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-069.png",
+  "meaning": "Baggage assistant",
+  "category": "baggage_service",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_PF_069.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-tf-030.png",
+  "meaning": "Baggage weighing",
+  "category": "baggage_service",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_TF_030.svg"
+ },
+ {
+  "file": "material/luggage.png",
+  "meaning": "luggage",
+  "category": "baggage_service",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/luggage/materialsymbolsoutlined/luggage_48px.svg"
+ },
+ {
+  "file": "maki/bank-jp.png",
+  "meaning": "bank JP",
+  "category": "bank",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/bank-JP.svg"
+ },
+ {
+  "file": "maki/bank.png",
+  "meaning": "bank",
+  "category": "bank",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/bank.svg"
+ },
+ {
+  "file": "osm-carto/bank.png",
+  "meaning": "bank",
+  "category": "bank",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/amenity/bank.svg"
+ },
+ {
+  "file": "aiga/aiga-bar-reduced.png",
+  "meaning": "bar (reduced)",
+  "category": "bar",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aiga_bar_(reduced).svg"
+ },
+ {
+  "file": "aiga/aiga-bar.png",
+  "meaning": "bar",
+  "category": "bar",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aiga_bar.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-cf-008.png",
+  "meaning": "Bar",
+  "category": "bar",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_CF_008.svg"
+ },
+ {
+  "file": "maki/bar.png",
+  "meaning": "bar",
+  "category": "bar",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/bar.svg"
+ },
+ {
+  "file": "maki/beer.png",
+  "meaning": "beer",
+  "category": "bar",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/beer.svg"
+ },
+ {
+  "file": "material/local-bar.png",
+  "meaning": "local bar",
+  "category": "bar",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/local_bar/materialsymbolsoutlined/local_bar_48px.svg"
+ },
+ {
+  "file": "osm-carto/bar.png",
+  "meaning": "bar",
+  "category": "bar",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/amenity/bar.svg"
+ },
+ {
+  "file": "osm-carto/pub.png",
+  "meaning": "pub",
+  "category": "bar",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/amenity/pub.svg"
+ },
+ {
+  "file": "aiga/aiga-bus-trans.png",
+  "meaning": "bus trans",
+  "category": "bus",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aiga_bus_trans.svg"
+ },
+ {
+  "file": "aiga/aiga-bus.png",
+  "meaning": "bus",
+  "category": "bus",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aiga_bus.svg"
+ },
+ {
+  "file": "aiga/translink-qld-bus-icon-with-roundel-2022.png",
+  "meaning": "Translink Qld bus icon with roundel 2022",
+  "category": "bus",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Translink_Qld_bus_icon_with_roundel_2022.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-tf-006.png",
+  "meaning": "Bus station or bus stop or buses, To indicate the location of buses",
+  "category": "bus",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_TF_006.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-tf-027.png",
+  "meaning": "Airport bus",
+  "category": "bus",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_TF_027.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-tf-039.png",
+  "meaning": "Bus disembarkation",
+  "category": "bus",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_TF_039.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-tf-040.png",
+  "meaning": "Bus embarkation",
+  "category": "bus",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_TF_040.svg"
+ },
+ {
+  "file": "maki/bus.png",
+  "meaning": "bus",
+  "category": "bus",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/bus.svg"
+ },
+ {
+  "file": "material/airport-shuttle.png",
+  "meaning": "airport shuttle",
+  "category": "bus",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/airport_shuttle/materialsymbolsoutlined/airport_shuttle_48px.svg"
+ },
+ {
+  "file": "material/directions-bus.png",
+  "meaning": "directions bus",
+  "category": "bus",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/directions_bus/materialsymbolsoutlined/directions_bus_48px.svg"
+ },
+ {
+  "file": "osm-carto/bus-station.png",
+  "meaning": "bus station",
+  "category": "bus",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/amenity/bus_station.svg"
+ },
+ {
+  "file": "osm-carto/bus-stop.png",
+  "meaning": "bus stop",
+  "category": "bus",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/highway/bus_stop.svg"
+ },
+ {
+  "file": "temaki/board-bus.png",
+  "meaning": "board bus",
+  "category": "bus",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/board_bus.svg"
+ },
+ {
+  "file": "temaki/bus-guided.png",
+  "meaning": "bus guided",
+  "category": "bus",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/bus_guided.svg"
+ },
+ {
+  "file": "temaki/bus.png",
+  "meaning": "bus",
+  "category": "bus",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/bus.svg"
+ },
+ {
+  "file": "aiga/aiga-coffeeshop.png",
+  "meaning": "coffeeshop",
+  "category": "cafe",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aiga_coffeeshop.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-cf-002.png",
+  "meaning": "Refreshments - coffee shop or café or buffet",
+  "category": "cafe",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_CF_002.svg"
+ },
+ {
+  "file": "maki/cafe.png",
+  "meaning": "cafe",
+  "category": "cafe",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/cafe.svg"
+ },
+ {
+  "file": "material/coffee.png",
+  "meaning": "coffee",
+  "category": "cafe",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/coffee/materialsymbolsoutlined/coffee_48px.svg"
+ },
+ {
+  "file": "material/local-cafe.png",
+  "meaning": "local cafe",
+  "category": "cafe",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/local_cafe/materialsymbolsoutlined/local_cafe_48px.svg"
+ },
+ {
+  "file": "osm-carto/cafe.png",
+  "meaning": "cafe",
+  "category": "cafe",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/amenity/cafe.svg"
+ },
+ {
+  "file": "aiga/aiga-carrental.png",
+  "meaning": "carrental",
+  "category": "car_rental",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aiga_carrental.svg"
+ },
+ {
+  "file": "aiga/bsicon-rentalcar.png",
+  "meaning": "BSicon RENTALCAR",
+  "category": "car_rental",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:BSicon_RENTALCAR.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-tf-009.png",
+  "meaning": "Rent-a-car or car rental/hire",
+  "category": "car_rental",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_TF_009.svg"
+ },
+ {
+  "file": "maki/car-rental.png",
+  "meaning": "car rental",
+  "category": "car_rental",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/car-rental.svg"
+ },
+ {
+  "file": "material/car-rental.png",
+  "meaning": "car rental",
+  "category": "car_rental",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/car_rental/materialsymbolsoutlined/car_rental_48px.svg"
+ },
+ {
+  "file": "osm-carto/rental-car.png",
+  "meaning": "rental car",
+  "category": "car_rental",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/amenity/rental_car.svg"
+ },
+ {
+  "file": "material/battery-charging-full.png",
+  "meaning": "battery charging full",
+  "category": "charging",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/battery_charging_full/materialsymbolsoutlined/battery_charging_full_48px.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-008.png",
+  "meaning": "Check-in or reception",
+  "category": "check_in",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_PF_008.svg"
+ },
+ {
+  "file": "aiga/aiga-currencyexchange.png",
+  "meaning": "currencyexchange",
+  "category": "currency_exchange",
+  "set": "aiga",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Aiga_currencyexchange.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-cf-004.png",
+  "meaning": "To indicate the location of currency exchange facilities",
+  "category": "currency_exchange",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_CF_004.svg"
+ },
+ {
+  "file": "material/currency-exchange.png",
+  "meaning": "currency exchange",
+  "category": "currency_exchange",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/currency_exchange/materialsymbolsoutlined/currency_exchange_48px.svg"
+ },
+ {
+  "file": "osm-carto/bureau-de-change.png",
+  "meaning": "bureau de change",
+  "category": "currency_exchange",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/amenity/bureau_de_change.svg"
+ },
+ {
+  "file": "aiga/aiga-customs.png",
+  "meaning": "customs",
+  "category": "customs",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aiga_customs.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-tf-018.png",
+  "meaning": "Customs or baggage check",
+  "category": "customs",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_TF_018.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-028.png",
+  "meaning": "Way in or entrance",
+  "category": "entrance_exit",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_PF_028.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-029.png",
+  "meaning": "Way out or exit",
+  "category": "entrance_exit",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_PF_029.svg"
+ },
+ {
+  "file": "maki/entrance-alt1.png",
+  "meaning": "entrance alt1",
+  "category": "entrance_exit",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/entrance-alt1.svg"
+ },
+ {
+  "file": "material/door-front.png",
+  "meaning": "door front",
+  "category": "entrance_exit",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/door_front/materialsymbolsoutlined/door_front_48px.svg"
+ },
+ {
+  "file": "material/exit-to-app.png",
+  "meaning": "exit to app",
+  "category": "entrance_exit",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/exit_to_app/materialsymbolsoutlined/exit_to_app_48px.svg"
+ },
+ {
+  "file": "osm-carto/entrance.png",
+  "meaning": "entrance",
+  "category": "entrance_exit",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/amenity/entrance.svg"
+ },
+ {
+  "file": "aiga/aiga-escalator-down-mirror.png",
+  "meaning": "escalator down mirror",
+  "category": "escalator",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aiga_escalator_down_mirror.svg"
+ },
+ {
+  "file": "aiga/aiga-escalator-down.png",
+  "meaning": "escalator down",
+  "category": "escalator",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aiga_escalator_down.svg"
+ },
+ {
+  "file": "aiga/aiga-escalator-mirror.png",
+  "meaning": "escalator mirror",
+  "category": "escalator",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aiga_escalator_mirror.svg"
+ },
+ {
+  "file": "aiga/aiga-escalator-up-mirror.png",
+  "meaning": "escalator up mirror",
+  "category": "escalator",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aiga_escalator_up_mirror.svg"
+ },
+ {
+  "file": "aiga/aiga-escalator-up.png",
+  "meaning": "escalator up",
+  "category": "escalator",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aiga_escalator_up.svg"
+ },
+ {
+  "file": "aiga/aiga-escalator.png",
+  "meaning": "escalator",
+  "category": "escalator",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aiga_escalator.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-020.png",
+  "meaning": "Escalator",
+  "category": "escalator",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_PF_020.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-033.png",
+  "meaning": "Escalator, down",
+  "category": "escalator",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_PF_033.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-034.png",
+  "meaning": "Escalator, up",
+  "category": "escalator",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_PF_034.svg"
+ },
+ {
+  "file": "material/escalator.png",
+  "meaning": "escalator",
+  "category": "escalator",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/escalator/materialsymbolsoutlined/escalator_48px.svg"
+ },
+ {
+  "file": "material/departure-board.png",
+  "meaning": "departure board",
+  "category": "flight_info",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/departure_board/materialsymbolsoutlined/departure_board_48px.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-cf-020.png",
+  "meaning": "Snack machine",
+  "category": "food_drink",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_CF_020.svg"
+ },
+ {
+  "file": "maki/bakery.png",
+  "meaning": "bakery",
+  "category": "food_drink",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/bakery.svg"
+ },
+ {
+  "file": "maki/fast-food.png",
+  "meaning": "fast food",
+  "category": "food_drink",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/fast-food.svg"
+ },
+ {
+  "file": "maki/ice-cream.png",
+  "meaning": "ice cream",
+  "category": "food_drink",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/ice-cream.svg"
+ },
+ {
+  "file": "material/bakery-dining.png",
+  "meaning": "bakery dining",
+  "category": "food_drink",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/bakery_dining/materialsymbolsoutlined/bakery_dining_48px.svg"
+ },
+ {
+  "file": "material/fastfood.png",
+  "meaning": "fastfood",
+  "category": "food_drink",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/fastfood/materialsymbolsoutlined/fastfood_48px.svg"
+ },
+ {
+  "file": "osm-carto/bakery.png",
+  "meaning": "bakery",
+  "category": "food_drink",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/shop/bakery.svg"
+ },
+ {
+  "file": "osm-carto/fast-food.png",
+  "meaning": "fast food",
+  "category": "food_drink",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/amenity/fast_food.svg"
+ },
+ {
+  "file": "osm-carto/ice-cream.png",
+  "meaning": "ice cream",
+  "category": "food_drink",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/amenity/ice_cream.svg"
+ },
+ {
+  "file": "temaki/food.png",
+  "meaning": "food",
+  "category": "food_drink",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/food.svg"
+ },
+ {
+  "file": "aiga/aiga-departingflights.png",
+  "meaning": "departingflights",
+  "category": "gate",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aiga_departingflights.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-tf-001.png",
+  "meaning": "Airport or aircraft",
+  "category": "gate",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_TF_001.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-tf-015.png",
+  "meaning": "Flight departures",
+  "category": "gate",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_TF_015.svg"
+ },
+ {
+  "file": "maki/airport.png",
+  "meaning": "airport",
+  "category": "gate",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/airport.svg"
+ },
+ {
+  "file": "material/flight-takeoff.png",
+  "meaning": "flight takeoff",
+  "category": "gate",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/flight_takeoff/materialsymbolsoutlined/flight_takeoff_48px.svg"
+ },
+ {
+  "file": "temaki/airport.png",
+  "meaning": "airport",
+  "category": "gate",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/airport.svg"
+ },
+ {
+  "file": "aiga/aiga-hotelinformation.png",
+  "meaning": "hotelinformation",
+  "category": "hotel",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aiga_hotelinformation.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-cf-003.png",
+  "meaning": "Hotel or accomodation",
+  "category": "hotel",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_CF_003.svg"
+ },
+ {
+  "file": "material/hotel.png",
+  "meaning": "hotel",
+  "category": "hotel",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/hotel/materialsymbolsoutlined/hotel_48px.svg"
+ },
+ {
+  "file": "osm-carto/bed.png",
+  "meaning": "bed",
+  "category": "hotel",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/shop/bed.svg"
+ },
+ {
+  "file": "osm-carto/hotel.png",
+  "meaning": "hotel",
+  "category": "hotel",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/tourism/hotel.svg"
+ },
+ {
+  "file": "aiga/aiga-information.png",
+  "meaning": "information",
+  "category": "information",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:AIGA_information.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-001.png",
+  "meaning": "Information",
+  "category": "information",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_PF_001.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-tf-042.png",
+  "meaning": "Meeting point",
+  "category": "information",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_TF_042.svg"
+ },
+ {
+  "file": "maki/information.png",
+  "meaning": "information",
+  "category": "information",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/information.svg"
+ },
+ {
+  "file": "material/help.png",
+  "meaning": "help",
+  "category": "information",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/help/materialsymbolsoutlined/help_48px.svg"
+ },
+ {
+  "file": "material/info.png",
+  "meaning": "info",
+  "category": "information",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/info/materialsymbolsoutlined/info_48px.svg"
+ },
+ {
+  "file": "temaki/briefcase-info.png",
+  "meaning": "briefcase info",
+  "category": "information",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/briefcase_info.svg"
+ },
+ {
+  "file": "temaki/info-board.png",
+  "meaning": "info board",
+  "category": "information",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/info_board.svg"
+ },
+ {
+  "file": "aiga/aiga-elevator.png",
+  "meaning": "elevator",
+  "category": "lift",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aiga_elevator.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-019.png",
+  "meaning": "Elevator or lift",
+  "category": "lift",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_PF_019.svg"
+ },
+ {
+  "file": "maki/elevator.png",
+  "meaning": "elevator",
+  "category": "lift",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/elevator.svg"
+ },
+ {
+  "file": "material/elevator.png",
+  "meaning": "elevator",
+  "category": "lift",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/elevator/materialsymbolsoutlined/elevator_48px.svg"
+ },
+ {
+  "file": "osm-carto/elevator.png",
+  "meaning": "elevator",
+  "category": "lift",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/highway/elevator.svg"
+ },
+ {
+  "file": "temaki/elevator.png",
+  "meaning": "elevator",
+  "category": "lift",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/elevator.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-009.png",
+  "meaning": "Lost and found or lost property",
+  "category": "lost_found",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_PF_009.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-014.png",
+  "meaning": "Lounge or waiting area",
+  "category": "lounge",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_PF_014.svg"
+ },
+ {
+  "file": "material/airline-seat-recline-normal.png",
+  "meaning": "airline seat recline normal",
+  "category": "lounge",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/airline_seat_recline_normal/materialsymbolsoutlined/airline_seat_recline_normal_48px.svg"
+ },
+ {
+  "file": "aiga/aiga-mail.png",
+  "meaning": "mail",
+  "category": "mailbox",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aiga_mail.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-016.png",
+  "meaning": "Post or Post office or mail box",
+  "category": "mailbox",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_PF_016.svg"
+ },
+ {
+  "file": "material/local-post-office.png",
+  "meaning": "local post office",
+  "category": "mailbox",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/local_post_office/materialsymbolsoutlined/local_post_office_48px.svg"
+ },
+ {
+  "file": "material/mail.png",
+  "meaning": "mail",
+  "category": "mailbox",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/mail/materialsymbolsoutlined/mail_48px.svg"
+ },
+ {
+  "file": "osm-carto/post-box.png",
+  "meaning": "post box",
+  "category": "mailbox",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/amenity/post_box.svg"
+ },
+ {
+  "file": "osm-carto/post-office.png",
+  "meaning": "post office",
+  "category": "mailbox",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/amenity/post_office.svg"
+ },
+ {
+  "file": "temaki/letter-box.png",
+  "meaning": "letter box",
+  "category": "mailbox",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/letter_box.svg"
+ },
+ {
+  "file": "temaki/post-box.png",
+  "meaning": "post box",
+  "category": "mailbox",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/post_box.svg"
+ },
+ {
+  "file": "aiga/aiga-firstaid-red.png",
+  "meaning": "FirstAid - Red",
+  "category": "medical",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aiga_FirstAid_-_Red.svg"
+ },
+ {
+  "file": "aiga/aiga-firstaid.png",
+  "meaning": "firstaid",
+  "category": "medical",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aiga_firstaid.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-002.png",
+  "meaning": "Hospital",
+  "category": "medical",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_PF_002.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-044.png",
+  "meaning": "Health care centre or doctor",
+  "category": "medical",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_PF_044.svg"
+ },
+ {
+  "file": "maki/doctor.png",
+  "meaning": "doctor",
+  "category": "medical",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/doctor.svg"
+ },
+ {
+  "file": "maki/hospital-jp.png",
+  "meaning": "hospital JP",
+  "category": "medical",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/hospital-JP.svg"
+ },
+ {
+  "file": "maki/hospital.png",
+  "meaning": "hospital",
+  "category": "medical",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/hospital.svg"
+ },
+ {
+  "file": "material/local-hospital.png",
+  "meaning": "local hospital",
+  "category": "medical",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/local_hospital/materialsymbolsoutlined/local_hospital_48px.svg"
+ },
+ {
+  "file": "material/medical-services.png",
+  "meaning": "medical services",
+  "category": "medical",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/medical_services/materialsymbolsoutlined/medical_services_48px.svg"
+ },
+ {
+  "file": "osm-carto/doctors.png",
+  "meaning": "doctors",
+  "category": "medical",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/amenity/doctors.svg"
+ },
+ {
+  "file": "osm-carto/hospital.png",
+  "meaning": "hospital",
+  "category": "medical",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/amenity/hospital.svg"
+ },
+ {
+  "file": "aiga/aiga-parking.png",
+  "meaning": "parking",
+  "category": "parking",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aiga_parking.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-tf-014.png",
+  "meaning": "Parking or car parking",
+  "category": "parking",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_TF_014.svg"
+ },
+ {
+  "file": "maki/parking-garage.png",
+  "meaning": "parking garage",
+  "category": "parking",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/parking-garage.svg"
+ },
+ {
+  "file": "maki/parking-paid.png",
+  "meaning": "parking paid",
+  "category": "parking",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/parking-paid.svg"
+ },
+ {
+  "file": "maki/parking.png",
+  "meaning": "parking",
+  "category": "parking",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/parking.svg"
+ },
+ {
+  "file": "material/local-parking.png",
+  "meaning": "local parking",
+  "category": "parking",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/local_parking/materialsymbolsoutlined/local_parking_48px.svg"
+ },
+ {
+  "file": "osm-carto/motorcycle-parking.png",
+  "meaning": "motorcycle parking",
+  "category": "parking",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/amenity/motorcycle_parking.svg"
+ },
+ {
+  "file": "osm-carto/parking-entrance-multistorey.png",
+  "meaning": "parking entrance multistorey",
+  "category": "parking",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/amenity/parking_entrance_multistorey.svg"
+ },
+ {
+  "file": "osm-carto/parking-entrance-underground.png",
+  "meaning": "parking entrance underground",
+  "category": "parking",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/amenity/parking_entrance_underground.svg"
+ },
+ {
+  "file": "osm-carto/parking-subtle.png",
+  "meaning": "parking subtle",
+  "category": "parking",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/amenity/parking_subtle.svg"
+ },
+ {
+  "file": "osm-carto/parking.png",
+  "meaning": "parking",
+  "category": "parking",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/amenity/parking.svg"
+ },
+ {
+  "file": "osm-carto/parking-tickets.png",
+  "meaning": "parking tickets",
+  "category": "parking_payment",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/amenity/parking_tickets.svg"
+ },
+ {
+  "file": "aiga/aiga-immigration.png",
+  "meaning": "immigration",
+  "category": "passport_control",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aiga_immigration.svg"
+ },
+ {
+  "file": "aiga/bsicon-passport.png",
+  "meaning": "BSicon PASSPORT",
+  "category": "passport_control",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:BSicon_PASSPORT.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-bp-011.png",
+  "meaning": "Manual passport control",
+  "category": "passport_control",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_BP_011.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-bp-013.png",
+  "meaning": "Open passport and place on scanning device",
+  "category": "passport_control",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_BP_013.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-tf-019.png",
+  "meaning": "Immigration or passport control/ inspection",
+  "category": "passport_control",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_TF_019.svg"
+ },
+ {
+  "file": "temaki/passport-checkpoint.png",
+  "meaning": "passport checkpoint",
+  "category": "passport_control",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/passport_checkpoint.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-cf-007.png",
+  "meaning": "Pharmacy",
+  "category": "pharmacy",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_CF_007.svg"
+ },
+ {
+  "file": "maki/pharmacy.png",
+  "meaning": "pharmacy",
+  "category": "pharmacy",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/pharmacy.svg"
+ },
+ {
+  "file": "material/local-pharmacy.png",
+  "meaning": "local pharmacy",
+  "category": "pharmacy",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/local_pharmacy/materialsymbolsoutlined/local_pharmacy_48px.svg"
+ },
+ {
+  "file": "osm-carto/pharmacy.png",
+  "meaning": "pharmacy",
+  "category": "pharmacy",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/amenity/pharmacy.svg"
+ },
+ {
+  "file": "temaki/pharmacy.png",
+  "meaning": "pharmacy",
+  "category": "pharmacy",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/pharmacy.svg"
+ },
+ {
+  "file": "aiga/aiga-telephone.png",
+  "meaning": "telephone",
+  "category": "phone",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aiga_telephone.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-017.png",
+  "meaning": "Telephone",
+  "category": "phone",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_PF_017.svg"
+ },
+ {
+  "file": "maki/emergency-phone.png",
+  "meaning": "emergency phone",
+  "category": "phone",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/emergency-phone.svg"
+ },
+ {
+  "file": "maki/mobile-phone.png",
+  "meaning": "mobile phone",
+  "category": "phone",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/mobile-phone.svg"
+ },
+ {
+  "file": "maki/telephone.png",
+  "meaning": "telephone",
+  "category": "phone",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/telephone.svg"
+ },
+ {
+  "file": "osm-carto/mobile-phone.png",
+  "meaning": "mobile phone",
+  "category": "phone",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/shop/mobile_phone.svg"
+ },
+ {
+  "file": "osm-carto/telephone.png",
+  "meaning": "telephone",
+  "category": "phone",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/amenity/telephone.svg"
+ },
+ {
+  "file": "temaki/telephone.png",
+  "meaning": "telephone",
+  "category": "phone",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/telephone.svg"
+ },
+ {
+  "file": "maki/police.png",
+  "meaning": "police",
+  "category": "police",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/police.svg"
+ },
+ {
+  "file": "material/local-police.png",
+  "meaning": "local police",
+  "category": "police",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/local_police/materialsymbolsoutlined/local_police_48px.svg"
+ },
+ {
+  "file": "osm-carto/police.png",
+  "meaning": "police",
+  "category": "police",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/amenity/police.svg"
+ },
+ {
+  "file": "temaki/police-checkpoint.png",
+  "meaning": "police checkpoint",
+  "category": "police",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/police_checkpoint.svg"
+ },
+ {
+  "file": "temaki/police-officer.png",
+  "meaning": "police officer",
+  "category": "police",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/police_officer.svg"
+ },
+ {
+  "file": "maki/place-of-worship.png",
+  "meaning": "place of worship",
+  "category": "prayer_room",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/place-of-worship.svg"
+ },
+ {
+  "file": "maki/religious-buddhist.png",
+  "meaning": "religious buddhist",
+  "category": "prayer_room",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/religious-buddhist.svg"
+ },
+ {
+  "file": "maki/religious-christian.png",
+  "meaning": "religious christian",
+  "category": "prayer_room",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/religious-christian.svg"
+ },
+ {
+  "file": "maki/religious-jewish.png",
+  "meaning": "religious jewish",
+  "category": "prayer_room",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/religious-jewish.svg"
+ },
+ {
+  "file": "maki/religious-muslim.png",
+  "meaning": "religious muslim",
+  "category": "prayer_room",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/religious-muslim.svg"
+ },
+ {
+  "file": "maki/religious-shinto.png",
+  "meaning": "religious shinto",
+  "category": "prayer_room",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/religious-shinto.svg"
+ },
+ {
+  "file": "material/mosque.png",
+  "meaning": "mosque",
+  "category": "prayer_room",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/mosque/materialsymbolsoutlined/mosque_48px.svg"
+ },
+ {
+  "file": "osm-carto/place-of-worship.png",
+  "meaning": "place of worship",
+  "category": "prayer_room",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/amenity/place_of_worship.svg"
+ },
+ {
+  "file": "aiga/aiga-restaurant-2.png",
+  "meaning": "restaurant 2",
+  "category": "restaurant",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aiga_restaurant_2.svg"
+ },
+ {
+  "file": "aiga/aiga-restaurant.png",
+  "meaning": "restaurant",
+  "category": "restaurant",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aiga_restaurant.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-cf-001.png",
+  "meaning": "Restaurant",
+  "category": "restaurant",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_CF_001.svg"
+ },
+ {
+  "file": "maki/restaurant.png",
+  "meaning": "restaurant",
+  "category": "restaurant",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/restaurant.svg"
+ },
+ {
+  "file": "material/restaurant.png",
+  "meaning": "restaurant",
+  "category": "restaurant",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/restaurant/materialsymbolsoutlined/restaurant_48px.svg"
+ },
+ {
+  "file": "osm-carto/restaurant.png",
+  "meaning": "restaurant",
+  "category": "restaurant",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/amenity/restaurant.svg"
+ },
+ {
+  "file": "aiga/aiga-shops.png",
+  "meaning": "shops",
+  "category": "retail",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aiga_shops.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-cf-006.png",
+  "meaning": "Shops or shopping",
+  "category": "retail",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_CF_006.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-cf-014.png",
+  "meaning": "Newsstand/News Kiosk/Newsagent",
+  "category": "retail",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_CF_014.svg"
+ },
+ {
+  "file": "maki/alcohol-shop.png",
+  "meaning": "alcohol shop",
+  "category": "retail",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/alcohol-shop.svg"
+ },
+ {
+  "file": "maki/clothing-store.png",
+  "meaning": "clothing store",
+  "category": "retail",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/clothing-store.svg"
+ },
+ {
+  "file": "maki/convenience.png",
+  "meaning": "convenience",
+  "category": "retail",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/convenience.svg"
+ },
+ {
+  "file": "maki/gift.png",
+  "meaning": "gift",
+  "category": "retail",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/gift.svg"
+ },
+ {
+  "file": "maki/jewelry-store.png",
+  "meaning": "jewelry store",
+  "category": "retail",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/jewelry-store.svg"
+ },
+ {
+  "file": "maki/shop.png",
+  "meaning": "shop",
+  "category": "retail",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/shop.svg"
+ },
+ {
+  "file": "material/book.png",
+  "meaning": "book",
+  "category": "retail",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/book/materialsymbolsoutlined/book_48px.svg"
+ },
+ {
+  "file": "material/local-convenience-store.png",
+  "meaning": "local convenience store",
+  "category": "retail",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/local_convenience_store/materialsymbolsoutlined/local_convenience_store_48px.svg"
+ },
+ {
+  "file": "material/shopping-bag.png",
+  "meaning": "shopping bag",
+  "category": "retail",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/shopping_bag/materialsymbolsoutlined/shopping_bag_48px.svg"
+ },
+ {
+  "file": "material/storefront.png",
+  "meaning": "storefront",
+  "category": "retail",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/storefront/materialsymbolsoutlined/storefront_48px.svg"
+ },
+ {
+  "file": "osm-carto/clothes.png",
+  "meaning": "clothes",
+  "category": "retail",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/shop/clothes.svg"
+ },
+ {
+  "file": "osm-carto/convenience.png",
+  "meaning": "convenience",
+  "category": "retail",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/shop/convenience.svg"
+ },
+ {
+  "file": "osm-carto/gift.png",
+  "meaning": "gift",
+  "category": "retail",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/shop/gift.svg"
+ },
+ {
+  "file": "osm-carto/newsagent.png",
+  "meaning": "newsagent",
+  "category": "retail",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/shop/newsagent.svg"
+ },
+ {
+  "file": "temaki/book-store.png",
+  "meaning": "book store",
+  "category": "retail",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/book_store.svg"
+ },
+ {
+  "file": "temaki/clothes-hanger.png",
+  "meaning": "clothes hanger",
+  "category": "retail",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/clothes_hanger.svg"
+ },
+ {
+  "file": "temaki/jewelry-store.png",
+  "meaning": "jewelry store",
+  "category": "retail",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/jewelry_store.svg"
+ },
+ {
+  "file": "temaki/shopping-mall.png",
+  "meaning": "shopping mall",
+  "category": "retail",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/shopping_mall.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-tf-045.png",
+  "meaning": "Rideshare pickup area",
+  "category": "rideshare",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_TF_045.svg"
+ },
+ {
+  "file": "aiga/aiga-waitingroom.png",
+  "meaning": "waitingroom",
+  "category": "seating_area",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aiga_waitingroom.svg"
+ },
+ {
+  "file": "osm-carto/bench.png",
+  "meaning": "bench",
+  "category": "seating_area",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/amenity/bench.svg"
+ },
+ {
+  "file": "temaki/bench.png",
+  "meaning": "bench",
+  "category": "seating_area",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/bench.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-tf-037.png",
+  "meaning": "Security check",
+  "category": "security_check",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_TF_037.svg"
+ },
+ {
+  "file": "aiga/smoking-aiga-symbol.png",
+  "meaning": "Smoking AIGA symbol",
+  "category": "smoking_area",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Smoking_AIGA_symbol.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-015.png",
+  "meaning": "Smoking area or smoking allowed",
+  "category": "smoking_area",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_PF_015.svg"
+ },
+ {
+  "file": "material/smoking-rooms.png",
+  "meaning": "smoking rooms",
+  "category": "smoking_area",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/smoking_rooms/materialsymbolsoutlined/smoking_rooms_48px.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-ac-024.png",
+  "meaning": "Sign language accessibility provided",
+  "category": "special_assistance",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_AC_024.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-031.png",
+  "meaning": "Accessible elevator or lift",
+  "category": "special_assistance",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_PF_031.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-045.png",
+  "meaning": "Accessibility, limited walking capability",
+  "category": "special_assistance",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_PF_045.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-046.png",
+  "meaning": "Accessibility, assistance dog",
+  "category": "special_assistance",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_PF_046.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-047.png",
+  "meaning": "Accessibility, personal assistant available",
+  "category": "special_assistance",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_PF_047.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-048.png",
+  "meaning": "Accessibility, hard of hearing",
+  "category": "special_assistance",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_PF_048.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-049.png",
+  "meaning": "Accessibility, vision impaired",
+  "category": "special_assistance",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_PF_049.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-051.png",
+  "meaning": "Accessibility, blind or low vision",
+  "category": "special_assistance",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_PF_051.svg"
+ },
+ {
+  "file": "maki/wheelchair.png",
+  "meaning": "wheelchair",
+  "category": "special_assistance",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/wheelchair.svg"
+ },
+ {
+  "file": "material/accessible.png",
+  "meaning": "accessible",
+  "category": "special_assistance",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/accessible/materialsymbolsoutlined/accessible_48px.svg"
+ },
+ {
+  "file": "material/wheelchair-pickup.png",
+  "meaning": "wheelchair pickup",
+  "category": "special_assistance",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/wheelchair_pickup/materialsymbolsoutlined/wheelchair_pickup_48px.svg"
+ },
+ {
+  "file": "temaki/accessible-space.png",
+  "meaning": "accessible space",
+  "category": "special_assistance",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/accessible_space.svg"
+ },
+ {
+  "file": "temaki/wheelchair-active.png",
+  "meaning": "wheelchair active",
+  "category": "special_assistance",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/wheelchair_active.svg"
+ },
+ {
+  "file": "temaki/wheelchair.png",
+  "meaning": "wheelchair",
+  "category": "special_assistance",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/wheelchair.svg"
+ },
+ {
+  "file": "aiga/aiga-stairs-down.png",
+  "meaning": "stairs down",
+  "category": "stairs",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aiga_stairs_down.png"
+ },
+ {
+  "file": "aiga/aiga-stairs.png",
+  "meaning": "stairs",
+  "category": "stairs",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aiga_stairs.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-021.png",
+  "meaning": "Stairs",
+  "category": "stairs",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_PF_021.svg"
+ },
+ {
+  "file": "material/stairs.png",
+  "meaning": "stairs",
+  "category": "stairs",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/stairs/materialsymbolsoutlined/stairs_48px.svg"
+ },
+ {
+  "file": "aiga/aiga-taxi.png",
+  "meaning": "taxi",
+  "category": "taxi",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aiga_taxi.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-tf-008.png",
+  "meaning": "Taxi stop or taxis",
+  "category": "taxi",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_TF_008.svg"
+ },
+ {
+  "file": "maki/taxi.png",
+  "meaning": "taxi",
+  "category": "taxi",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/taxi.svg"
+ },
+ {
+  "file": "material/local-taxi.png",
+  "meaning": "local taxi",
+  "category": "taxi",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/local_taxi/materialsymbolsoutlined/local_taxi_48px.svg"
+ },
+ {
+  "file": "osm-carto/taxi.png",
+  "meaning": "taxi",
+  "category": "taxi",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/amenity/taxi.svg"
+ },
+ {
+  "file": "temaki/taxi-stand.png",
+  "meaning": "taxi stand",
+  "category": "taxi",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/taxi_stand.svg"
+ },
+ {
+  "file": "aiga/aiga-ticketpurchase-inv-svg-biglietteria-a-sportello.png",
+  "meaning": "ticketpurchase inv.svg - Biglietteria a Sportello",
+  "category": "ticket_sales",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aiga_ticketpurchase_inv.svg_-_Biglietteria_a_Sportello.png"
+ },
+ {
+  "file": "aiga/aiga-ticketpurchase.png",
+  "meaning": "ticketpurchase",
+  "category": "ticket_sales",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aiga_ticketpurchase.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-010.png",
+  "meaning": "Tickets or ticket sales",
+  "category": "ticket_sales",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_PF_010.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-011.png",
+  "meaning": "Ticket validation",
+  "category": "ticket_sales",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_PF_011.svg"
+ },
+ {
+  "file": "material/airplane-ticket.png",
+  "meaning": "airplane ticket",
+  "category": "ticket_sales",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/airplane_ticket/materialsymbolsoutlined/airplane_ticket_48px.svg"
+ },
+ {
+  "file": "osm-carto/ticket.png",
+  "meaning": "ticket",
+  "category": "ticket_sales",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/shop/ticket.svg"
+ },
+ {
+  "file": "temaki/ticket.png",
+  "meaning": "ticket",
+  "category": "ticket_sales",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/ticket.svg"
+ },
+ {
+  "file": "temaki/vending-tickets.png",
+  "meaning": "vending tickets",
+  "category": "ticket_sales",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/vending_tickets.svg"
+ },
+ {
+  "file": "aiga/aiga-toiletsq-men.png",
+  "meaning": "toiletsq men",
+  "category": "toilet",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aiga_toiletsq_men.svg"
+ },
+ {
+  "file": "aiga/toilets-unisex.png",
+  "meaning": "Toilets unisex",
+  "category": "toilet",
+  "set": "aiga",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Toilets_unisex.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-003.png",
+  "meaning": "Toilets - unisex",
+  "category": "toilet",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_PF_003.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-004.png",
+  "meaning": "Toilets - male",
+  "category": "toilet",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_PF_004.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-005.png",
+  "meaning": "Toilets - female",
+  "category": "toilet",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_PF_005.svg"
+ },
+ {
+  "file": "iso7001/iso7001-1990-toilets-icon.png",
+  "meaning": "Iso7001-1990 Toilets Icon",
+  "category": "toilet",
+  "set": "iso7001",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Iso7001-1990_Toilets_Icon.gif"
+ },
+ {
+  "file": "maki/toilet.png",
+  "meaning": "toilet",
+  "category": "toilet",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/toilet.svg"
+ },
+ {
+  "file": "material/family-restroom.png",
+  "meaning": "family restroom",
+  "category": "toilet",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/family_restroom/materialsymbolsoutlined/family_restroom_48px.svg"
+ },
+ {
+  "file": "material/man.png",
+  "meaning": "man",
+  "category": "toilet",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/man/materialsymbolsoutlined/man_48px.svg"
+ },
+ {
+  "file": "material/wc.png",
+  "meaning": "wc",
+  "category": "toilet",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/wc/materialsymbolsoutlined/wc_48px.svg"
+ },
+ {
+  "file": "material/woman.png",
+  "meaning": "woman",
+  "category": "toilet",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/woman/materialsymbolsoutlined/woman_48px.svg"
+ },
+ {
+  "file": "osm-carto/toilets.png",
+  "meaning": "toilets",
+  "category": "toilet",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/amenity/toilets.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-006.png",
+  "meaning": "Full accessibility or toilets - accessible",
+  "category": "toilet_accessible",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_PF_006.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-tf-002.png",
+  "meaning": "Railway station or railways or trains",
+  "category": "train",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_TF_002.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-tf-003.png",
+  "meaning": "Underground or metro railway station or trains",
+  "category": "train",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_TF_003.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-tf-007.png",
+  "meaning": "Tram or streetcar stop or trams or streetcars",
+  "category": "train",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_TF_007.svg"
+ },
+ {
+  "file": "maki/rail-light.png",
+  "meaning": "rail light",
+  "category": "train",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/rail-light.svg"
+ },
+ {
+  "file": "maki/rail-metro.png",
+  "meaning": "rail metro",
+  "category": "train",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/rail-metro.svg"
+ },
+ {
+  "file": "maki/rail.png",
+  "meaning": "rail",
+  "category": "train",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/rail.svg"
+ },
+ {
+  "file": "material/subway.png",
+  "meaning": "subway",
+  "category": "train",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/subway/materialsymbolsoutlined/subway_48px.svg"
+ },
+ {
+  "file": "material/train.png",
+  "meaning": "train",
+  "category": "train",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/train/materialsymbolsoutlined/train_48px.svg"
+ },
+ {
+  "file": "material/tram.png",
+  "meaning": "tram",
+  "category": "train",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/tram/materialsymbolsoutlined/tram_48px.svg"
+ },
+ {
+  "file": "temaki/board-heavy-rail.png",
+  "meaning": "board heavy rail",
+  "category": "train",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/board_heavy_rail.svg"
+ },
+ {
+  "file": "temaki/board-light-rail.png",
+  "meaning": "board light rail",
+  "category": "train",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/board_light_rail.svg"
+ },
+ {
+  "file": "temaki/board-monorail.png",
+  "meaning": "board monorail",
+  "category": "train",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/board_monorail.svg"
+ },
+ {
+  "file": "temaki/board-subway.png",
+  "meaning": "board subway",
+  "category": "train",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/board_subway.svg"
+ },
+ {
+  "file": "temaki/board-train-bullet.png",
+  "meaning": "board train bullet",
+  "category": "train",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/board_train_bullet.svg"
+ },
+ {
+  "file": "temaki/board-train-diesel.png",
+  "meaning": "board train diesel",
+  "category": "train",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/board_train_diesel.svg"
+ },
+ {
+  "file": "temaki/board-train.png",
+  "meaning": "board train",
+  "category": "train",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/board_train.svg"
+ },
+ {
+  "file": "temaki/board-tram.png",
+  "meaning": "board tram",
+  "category": "train",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/board_tram.svg"
+ },
+ {
+  "file": "temaki/heavy-rail.png",
+  "meaning": "heavy rail",
+  "category": "train",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/heavy_rail.svg"
+ },
+ {
+  "file": "temaki/light-rail.png",
+  "meaning": "light rail",
+  "category": "train",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/light_rail.svg"
+ },
+ {
+  "file": "temaki/monorail.png",
+  "meaning": "monorail",
+  "category": "train",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/monorail.svg"
+ },
+ {
+  "file": "temaki/subway.png",
+  "meaning": "subway",
+  "category": "train",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/subway.svg"
+ },
+ {
+  "file": "temaki/train-bullet.png",
+  "meaning": "train bullet",
+  "category": "train",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/train_bullet.svg"
+ },
+ {
+  "file": "temaki/train-diesel.png",
+  "meaning": "train diesel",
+  "category": "train",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/train_diesel.svg"
+ },
+ {
+  "file": "temaki/train.png",
+  "meaning": "train",
+  "category": "train",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/train.svg"
+ },
+ {
+  "file": "temaki/tram-side.png",
+  "meaning": "tram side",
+  "category": "train",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/tram_side.svg"
+ },
+ {
+  "file": "temaki/tram.png",
+  "meaning": "tram",
+  "category": "train",
+  "set": "temaki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/rapideditor/temaki/main/icons/tram.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-tf-017.png",
+  "meaning": "Flight connections",
+  "category": "transfer_desk",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_TF_017.svg"
+ },
+ {
+  "file": "material/connecting-airports.png",
+  "meaning": "connecting airports",
+  "category": "transfer_desk",
+  "set": "material",
+  "licence": "Apache 2.0",
+  "source": "https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/connecting_airports/materialsymbolsoutlined/connecting_airports_48px.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-032.png",
+  "meaning": "Moving walkway",
+  "category": "travelator",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_PF_032.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-007.png",
+  "meaning": "Drinking water",
+  "category": "water_fountain",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_PF_007.svg"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-077.png",
+  "meaning": "Drinking water fountain",
+  "category": "water_fountain",
+  "set": "iso7001",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ISO_7001_PI_PF_077.svg"
+ },
+ {
+  "file": "maki/drinking-water.png",
+  "meaning": "drinking water",
+  "category": "water_fountain",
+  "set": "maki",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/mapbox/maki/main/icons/drinking-water.svg"
+ },
+ {
+  "file": "osm-carto/drinking-water.png",
+  "meaning": "drinking water",
+  "category": "water_fountain",
+  "set": "osm-carto",
+  "licence": "CC0 1.0",
+  "source": "https://raw.githubusercontent.com/gravitystorm/openstreetmap-carto/master/symbols/amenity/drinking_water.svg"
+ }
+]

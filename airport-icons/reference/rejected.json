@@ -1,0 +1,458 @@
+[
+ {
+  "file": "material/flight-land.png",
+  "meaning": "flight land",
+  "set": "material",
+  "reason": "arrivals plane is not baggage claim"
+ },
+ {
+  "file": "osm-carto/parcel-locker.png",
+  "meaning": "parcel locker",
+  "set": "osm-carto",
+  "reason": "parcel locker"
+ },
+ {
+  "file": "temaki/board-trolleybus.png",
+  "meaning": "board trolleybus",
+  "set": "temaki",
+  "reason": "trolleybus, not a baggage trolley"
+ },
+ {
+  "file": "temaki/trolleybus.png",
+  "meaning": "trolleybus",
+  "set": "temaki",
+  "reason": "trolleybus, not a baggage trolley"
+ },
+ {
+  "file": "temaki/vending-lockers.png",
+  "meaning": "vending lockers",
+  "set": "temaki",
+  "reason": "vending lockers"
+ },
+ {
+  "file": "osm-carto/bust.png",
+  "meaning": "bust",
+  "set": "osm-carto",
+  "reason": "sculpture bust, matched 'bus'"
+ },
+ {
+  "file": "temaki/board-school-bus.png",
+  "meaning": "board school bus",
+  "set": "temaki",
+  "reason": "school bus"
+ },
+ {
+  "file": "temaki/school-bus.png",
+  "meaning": "school bus",
+  "set": "temaki",
+  "reason": "school bus"
+ },
+ {
+  "file": "osm-carto/coffee.png",
+  "meaning": "coffee",
+  "set": "osm-carto",
+  "reason": "coffee beans"
+ },
+ {
+  "file": "temaki/coffee.png",
+  "meaning": "coffee",
+  "set": "temaki",
+  "reason": "coffee beans"
+ },
+ {
+  "file": "temaki/motorcycle-rental.png",
+  "meaning": "motorcycle rental",
+  "set": "temaki",
+  "reason": "motorcycle rental"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-tf-044.png",
+  "meaning": "Electric vehicle charging station or point",
+  "set": "iso7001",
+  "reason": "EV charging, not device charging"
+ },
+ {
+  "file": "maki/charging-station.png",
+  "meaning": "charging station",
+  "set": "maki",
+  "reason": "EV charging, not device charging"
+ },
+ {
+  "file": "osm-carto/charging-station.png",
+  "meaning": "charging station",
+  "set": "osm-carto",
+  "reason": "EV charging, not device charging"
+ },
+ {
+  "file": "osm-carto/perfumery.png",
+  "meaning": "perfumery",
+  "set": "osm-carto",
+  "reason": "perfume shop is not duty free"
+ },
+ {
+  "file": "temaki/perfume.png",
+  "meaning": "perfume",
+  "set": "temaki",
+  "reason": "perfume shop is not duty free"
+ },
+ {
+  "file": "aiga/aiga-exit-green.png",
+  "meaning": "Exit - Green",
+  "set": "aiga",
+  "reason": "disc does not show an exit"
+ },
+ {
+  "file": "aiga/aiga-exit.png",
+  "meaning": "exit",
+  "set": "aiga",
+  "reason": "disc does not show an exit"
+ },
+ {
+  "file": "maki/entrance.png",
+  "meaning": "entrance",
+  "set": "maki",
+  "reason": "looks like an escalator, not an entrance"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-tf-016.png",
+  "meaning": "Flight arrivals",
+  "set": "iso7001",
+  "reason": "flight arrivals is not flight information"
+ },
+ {
+  "file": "temaki/vending-ice-cream.png",
+  "meaning": "vending ice cream",
+  "set": "temaki",
+  "reason": "ice-cream vending machine"
+ },
+ {
+  "file": "temaki/vending-ice-cream2.png",
+  "meaning": "vending ice cream2",
+  "set": "temaki",
+  "reason": "ice-cream vending machine"
+ },
+ {
+  "file": "maki/gate.png",
+  "meaning": "gate",
+  "set": "maki",
+  "reason": "swing gate, not an airport gate"
+ },
+ {
+  "file": "osm-carto/gate.png",
+  "meaning": "gate",
+  "set": "osm-carto",
+  "reason": "level-crossing gate"
+ },
+ {
+  "file": "osm-carto/kissing-gate.png",
+  "meaning": "kissing gate",
+  "set": "osm-carto",
+  "reason": "kissing gate"
+ },
+ {
+  "file": "temaki/gate.png",
+  "meaning": "gate",
+  "set": "temaki",
+  "reason": "field gate"
+ },
+ {
+  "file": "temaki/tall-gate.png",
+  "meaning": "tall gate",
+  "set": "temaki",
+  "reason": "tall gate"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-cf-010.png",
+  "meaning": "Conference facilities or meeting room",
+  "set": "iso7001",
+  "reason": "conference facilities"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-tf-043.png",
+  "meaning": "Tour group meeting point",
+  "set": "iso7001",
+  "reason": "tour group meeting point"
+ },
+ {
+  "file": "material/meeting-room.png",
+  "meaning": "meeting room",
+  "set": "material",
+  "reason": "meeting room"
+ },
+ {
+  "file": "temaki/platter-lift.png",
+  "meaning": "platter lift",
+  "set": "temaki",
+  "reason": "ski platter lift"
+ },
+ {
+  "file": "temaki/lounger.png",
+  "meaning": "lounger",
+  "set": "temaki",
+  "reason": "beach lounger"
+ },
+ {
+  "file": "aiga/aiga-mail-white.png",
+  "meaning": "mail white",
+  "set": "aiga",
+  "reason": "white on white, unreadable"
+ },
+ {
+  "file": "osm-carto/medical-supply.png",
+  "meaning": "medical supply",
+  "set": "osm-carto",
+  "reason": "medical supply shop (wheelchair)"
+ },
+ {
+  "file": "temaki/parking-space.png",
+  "meaning": "parking space",
+  "set": "temaki",
+  "reason": "parking space marking"
+ },
+ {
+  "file": "osm-carto/chemist.png",
+  "meaning": "chemist",
+  "set": "osm-carto",
+  "reason": "toothpaste: chemist shop, not pharmacy"
+ },
+ {
+  "file": "osm-carto/emergency-phone.png",
+  "meaning": "emergency phone",
+  "set": "osm-carto",
+  "reason": "SOS emergency phone"
+ },
+ {
+  "file": "maki/police-jp.png",
+  "meaning": "police JP",
+  "set": "maki",
+  "reason": "Japanese police symbol"
+ },
+ {
+  "file": "maki/restaurant-bbq.png",
+  "meaning": "restaurant bbq",
+  "set": "maki",
+  "reason": "cuisine-specific restaurant"
+ },
+ {
+  "file": "maki/restaurant-noodle.png",
+  "meaning": "restaurant noodle",
+  "set": "maki",
+  "reason": "cuisine-specific restaurant"
+ },
+ {
+  "file": "maki/restaurant-pizza.png",
+  "meaning": "restaurant pizza",
+  "set": "maki",
+  "reason": "cuisine-specific restaurant"
+ },
+ {
+  "file": "maki/restaurant-seafood.png",
+  "meaning": "restaurant seafood",
+  "set": "maki",
+  "reason": "cuisine-specific restaurant"
+ },
+ {
+  "file": "maki/restaurant-sushi.png",
+  "meaning": "restaurant sushi",
+  "set": "maki",
+  "reason": "cuisine-specific restaurant"
+ },
+ {
+  "file": "osm-carto/department-store.png",
+  "meaning": "department store",
+  "set": "osm-carto",
+  "reason": "department store"
+ },
+ {
+  "file": "osm-carto/variety-store.png",
+  "meaning": "variety store",
+  "set": "osm-carto",
+  "reason": "variety store"
+ },
+ {
+  "file": "temaki/pet-store.png",
+  "meaning": "pet store",
+  "set": "temaki",
+  "reason": "pet store"
+ },
+ {
+  "file": "osm-carto/outdoor-seating.png",
+  "meaning": "outdoor seating",
+  "set": "osm-carto",
+  "reason": "outdoor seating"
+ },
+ {
+  "file": "material/security.png",
+  "meaning": "security",
+  "set": "material",
+  "reason": "security shield, not a security check"
+ },
+ {
+  "file": "osm-carto/public-transport-tickets.png",
+  "meaning": "public transport tickets",
+  "set": "osm-carto",
+  "reason": "public transport tickets"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-079.png",
+  "meaning": "Men’s changing room",
+  "set": "iso7001",
+  "reason": "changing room, not toilets"
+ },
+ {
+  "file": "iso7001/iso-7001-pi-pf-081.png",
+  "meaning": "Women’s changing room",
+  "set": "iso7001",
+  "reason": "changing room, not toilets"
+ },
+ {
+  "file": "temaki/board-train-kids.png",
+  "meaning": "board train kids",
+  "set": "temaki",
+  "reason": "children's train"
+ },
+ {
+  "file": "temaki/board-train-steam.png",
+  "meaning": "board train steam",
+  "set": "temaki",
+  "reason": "steam train"
+ },
+ {
+  "file": "temaki/crossing-rail-rail.png",
+  "meaning": "crossing rail rail",
+  "set": "temaki",
+  "reason": "railway crossing"
+ },
+ {
+  "file": "temaki/crossing-rail-road.png",
+  "meaning": "crossing rail road",
+  "set": "temaki",
+  "reason": "railway crossing"
+ },
+ {
+  "file": "temaki/crossing-rail-solid.png",
+  "meaning": "crossing rail solid",
+  "set": "temaki",
+  "reason": "railway crossing"
+ },
+ {
+  "file": "temaki/crossing-rail-striped.png",
+  "meaning": "crossing rail striped",
+  "set": "temaki",
+  "reason": "railway crossing"
+ },
+ {
+  "file": "temaki/crossing-tram-road.png",
+  "meaning": "crossing tram road",
+  "set": "temaki",
+  "reason": "tram crossing"
+ },
+ {
+  "file": "temaki/crossing-tram-solid.png",
+  "meaning": "crossing tram solid",
+  "set": "temaki",
+  "reason": "tram crossing"
+ },
+ {
+  "file": "temaki/crossing-tram-striped.png",
+  "meaning": "crossing tram striped",
+  "set": "temaki",
+  "reason": "tram crossing"
+ },
+ {
+  "file": "temaki/guard-rail.png",
+  "meaning": "guard rail",
+  "set": "temaki",
+  "reason": "guard rail"
+ },
+ {
+  "file": "temaki/rail-flag.png",
+  "meaning": "rail flag",
+  "set": "temaki",
+  "reason": "rail flag"
+ },
+ {
+  "file": "temaki/rail-profile.png",
+  "meaning": "rail profile",
+  "set": "temaki",
+  "reason": "rail profile"
+ },
+ {
+  "file": "temaki/railway-cable-track.png",
+  "meaning": "railway cable track",
+  "set": "temaki",
+  "reason": "railway track"
+ },
+ {
+  "file": "temaki/railway-signals.png",
+  "meaning": "railway signals",
+  "set": "temaki",
+  "reason": "railway signals"
+ },
+ {
+  "file": "temaki/railway-track-askew.png",
+  "meaning": "railway track askew",
+  "set": "temaki",
+  "reason": "railway track"
+ },
+ {
+  "file": "temaki/railway-track-mini.png",
+  "meaning": "railway track mini",
+  "set": "temaki",
+  "reason": "railway track"
+ },
+ {
+  "file": "temaki/railway-track-narrow.png",
+  "meaning": "railway track narrow",
+  "set": "temaki",
+  "reason": "railway track"
+ },
+ {
+  "file": "temaki/railway-track-partial.png",
+  "meaning": "railway track partial",
+  "set": "temaki",
+  "reason": "railway track"
+ },
+ {
+  "file": "temaki/railway-track.png",
+  "meaning": "railway track",
+  "set": "temaki",
+  "reason": "railway track"
+ },
+ {
+  "file": "temaki/train-kids.png",
+  "meaning": "train kids",
+  "set": "temaki",
+  "reason": "children's train"
+ },
+ {
+  "file": "temaki/train-steam.png",
+  "meaning": "train steam",
+  "set": "temaki",
+  "reason": "steam train"
+ },
+ {
+  "file": "temaki/train-wash.png",
+  "meaning": "train wash",
+  "set": "temaki",
+  "reason": "train wash"
+ },
+ {
+  "file": "temaki/trampoline.png",
+  "meaning": "trampoline",
+  "set": "temaki",
+  "reason": "trampoline"
+ },
+ {
+  "file": "osm-carto/fountain.png",
+  "meaning": "fountain",
+  "set": "osm-carto",
+  "reason": "decorative fountain"
+ },
+ {
+  "file": "temaki/fountain.png",
+  "meaning": "fountain",
+  "set": "temaki",
+  "reason": "decorative fountain"
+ }
+]

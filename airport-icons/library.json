@@ -1,0 +1,1193 @@
+[
+ {
+  "id": "d4d6a058eb53",
+  "file": "unknown/d4d6a058eb53.png",
+  "meaning": "AED",
+  "category": null,
+  "sources": [
+   "eval-brussels-airport-departure v2"
+  ],
+  "verified": false
+ },
+ {
+  "id": "582294bf7c96",
+  "file": "unknown/582294bf7c96.png",
+  "meaning": "ATM / Cash Withdrawal",
+  "category": null,
+  "sources": [
+   "eval-brussels-airport-departure v2"
+  ],
+  "verified": false
+ },
+ {
+  "id": "0dc3acdc7bf5",
+  "file": "unknown/0dc3acdc7bf5.png",
+  "meaning": "Airport Pharmacy",
+  "category": null,
+  "sources": [
+   "eval-brussels-airport-departure v2"
+  ],
+  "verified": false
+ },
+ {
+  "id": "25f36be8afb8",
+  "file": "unknown/25f36be8afb8.png",
+  "meaning": "Baby Care Room",
+  "category": null,
+  "sources": [
+   "eval-brussels-airport-departure v2"
+  ],
+  "verified": false
+ },
+ {
+  "id": "06b40efed4b5",
+  "file": "unknown/06b40efed4b5.png",
+  "meaning": "Brussels Airport Information",
+  "category": null,
+  "sources": [
+   "eval-brussels-airport-departure v2"
+  ],
+  "verified": false
+ },
+ {
+  "id": "c7610ffaaa4e",
+  "file": "unknown/c7610ffaaa4e.png",
+  "meaning": "Bus",
+  "category": null,
+  "sources": [
+   "eval-brussels-airport-departure v2"
+  ],
+  "verified": false
+ },
+ {
+  "id": "0e87a7c941ab",
+  "file": "unknown/0e87a7c941ab.png",
+  "meaning": "Customs",
+  "category": null,
+  "sources": [
+   "eval-brussels-airport-departure v2"
+  ],
+  "verified": false
+ },
+ {
+  "id": "25b7d0d8a210",
+  "file": "unknown/25b7d0d8a210.png",
+  "meaning": "Elevator",
+  "category": null,
+  "sources": [
+   "eval-brussels-airport-departure v2"
+  ],
+  "verified": false
+ },
+ {
+  "id": "42a54be7bdee",
+  "file": "unknown/42a54be7bdee.png",
+  "meaning": "Escalator",
+  "category": null,
+  "sources": [
+   "eval-brussels-airport-departure v2"
+  ],
+  "verified": false
+ },
+ {
+  "id": "970abe09bf28",
+  "file": "unknown/970abe09bf28.png",
+  "meaning": "Flight Info",
+  "category": null,
+  "sources": [
+   "eval-brussels-airport-departure v2"
+  ],
+  "verified": false
+ },
+ {
+  "id": "56be499c045c",
+  "file": "unknown/56be499c045c.png",
+  "meaning": "Mailbox",
+  "category": null,
+  "sources": [
+   "eval-brussels-airport-departure v2"
+  ],
+  "verified": false
+ },
+ {
+  "id": "56de30fa01e0",
+  "file": "unknown/56de30fa01e0.png",
+  "meaning": "Oversized Baggage",
+  "category": null,
+  "sources": [
+   "eval-brussels-airport-departure v2"
+  ],
+  "verified": false
+ },
+ {
+  "id": "1bdc340798f2",
+  "file": "unknown/1bdc340798f2.png",
+  "meaning": "Pick-up Point Online Shop",
+  "category": null,
+  "sources": [
+   "eval-brussels-airport v1"
+  ],
+  "verified": false
+ },
+ {
+  "id": "7e63926b932f",
+  "file": "unknown/7e63926b932f.png",
+  "meaning": "Police",
+  "category": null,
+  "sources": [
+   "eval-brussels-airport-departure v2"
+  ],
+  "verified": false
+ },
+ {
+  "id": "430644f96ce1",
+  "file": "unknown/430644f96ce1.png",
+  "meaning": "Seating area",
+  "category": null,
+  "sources": [
+   "eval-brussels-airport-departure v2"
+  ],
+  "verified": false
+ },
+ {
+  "id": "7c628ececb19",
+  "file": "unknown/7c628ececb19.png",
+  "meaning": "Special Assistance Desk",
+  "category": null,
+  "sources": [
+   "eval-brussels-airport-departure v2"
+  ],
+  "verified": false
+ },
+ {
+  "id": "21c3ebfa10d6",
+  "file": "unknown/21c3ebfa10d6.png",
+  "meaning": "Stairs",
+  "category": null,
+  "sources": [
+   "eval-brussels-airport-departure v2"
+  ],
+  "verified": false
+ },
+ {
+  "id": "3f33786cecc2",
+  "file": "unknown/3f33786cecc2.png",
+  "meaning": "Toilets",
+  "category": null,
+  "sources": [
+   "eval-brussels-airport-departure v2"
+  ],
+  "verified": false
+ },
+ {
+  "id": "e5eea4f53550",
+  "file": "unknown/e5eea4f53550.png",
+  "meaning": "Train",
+  "category": null,
+  "sources": [
+   "eval-brussels-airport-departure v2"
+  ],
+  "verified": false
+ },
+ {
+  "id": "b71e177b24f5",
+  "file": "aed/b71e177b24f5.png",
+  "meaning": "AED",
+  "category": "aed",
+  "sources": [
+   "eval-brussels-airport-departure v1",
+   "eval-brussels-airport-departure v3"
+  ],
+  "verified": true
+ },
+ {
+  "id": "4decfaf842fd",
+  "file": "aed/4decfaf842fd.png",
+  "meaning": "AED",
+  "category": "aed",
+  "sources": [
+   "eval-brussels-airport-departure v2"
+  ],
+  "verified": true
+ },
+ {
+  "id": "d1ed60f84b03",
+  "file": "atm/d1ed60f84b03.png",
+  "meaning": "ATM",
+  "category": "atm",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v1",
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v2"
+  ],
+  "verified": false
+ },
+ {
+  "id": "b7467b4f4fa2",
+  "file": "atm/b7467b4f4fa2.png",
+  "meaning": "ATM",
+  "category": "atm",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v3"
+  ],
+  "verified": false
+ },
+ {
+  "id": "81b32c294ef7",
+  "file": "atm/81b32c294ef7.png",
+  "meaning": "ATM",
+  "category": "atm",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v3"
+  ],
+  "verified": false
+ },
+ {
+  "id": "4874704d11b6",
+  "file": "atm/4874704d11b6.png",
+  "meaning": "ATM / Cash Withdrawal",
+  "category": "atm",
+  "sources": [
+   "eval-brussels-airport-departure v1",
+   "eval-brussels-airport-departure v2",
+   "eval-brussels-airport-departure v3"
+  ],
+  "verified": true
+ },
+ {
+  "id": "87fc84e7b016",
+  "file": "baby_care/87fc84e7b016.png",
+  "meaning": "Baby Care Room",
+  "category": "baby_care",
+  "sources": [
+   "eval-brussels-airport-departure v1",
+   "eval-brussels-airport-departure v2",
+   "eval-brussels-airport-departure v3"
+  ],
+  "verified": true
+ },
+ {
+  "id": "686a472fc83d",
+  "file": "baggage_claim/686a472fc83d.png",
+  "meaning": "Baggage Claim",
+  "category": "baggage_claim",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v1",
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v2"
+  ],
+  "verified": false
+ },
+ {
+  "id": "f3870ebf27df",
+  "file": "baggage_claim/f3870ebf27df.png",
+  "meaning": "Baggage Claim",
+  "category": "baggage_claim",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v3"
+  ],
+  "verified": false
+ },
+ {
+  "id": "77e2e29a7d3c",
+  "file": "baggage_service/77e2e29a7d3c.png",
+  "meaning": "Oversized Baggage",
+  "category": "baggage_service",
+  "sources": [
+   "eval-brussels-airport-departure v1"
+  ],
+  "verified": true
+ },
+ {
+  "id": "4de15043ad81",
+  "file": "baggage_service/4de15043ad81.png",
+  "meaning": "Oversized Baggage",
+  "category": "baggage_service",
+  "sources": [
+   "eval-brussels-airport-departure v2"
+  ],
+  "verified": false
+ },
+ {
+  "id": "e9b52ac31bd4",
+  "file": "baggage_service/e9b52ac31bd4.png",
+  "meaning": "Oversized Baggage",
+  "category": "baggage_service",
+  "sources": [
+   "eval-brussels-airport-departure v3"
+  ],
+  "verified": true
+ },
+ {
+  "id": "a45dc36b6b62",
+  "file": "bus/a45dc36b6b62.png",
+  "meaning": "Airportlink",
+  "category": "bus",
+  "sources": [
+   "eval-auckland-airport v1"
+  ],
+  "verified": true
+ },
+ {
+  "id": "14e7957bece2",
+  "file": "bus/14e7957bece2.png",
+  "meaning": "Bus",
+  "category": "bus",
+  "sources": [
+   "eval-brussels-airport-departure v1",
+   "eval-brussels-airport-departure v2"
+  ],
+  "verified": true
+ },
+ {
+  "id": "444fa5f50f72",
+  "file": "bus/444fa5f50f72.png",
+  "meaning": "Bus",
+  "category": "bus",
+  "sources": [
+   "eval-brussels-airport-departure v3"
+  ],
+  "verified": true
+ },
+ {
+  "id": "986bfb9cdaec",
+  "file": "bus/986bfb9cdaec.png",
+  "meaning": "Bus drop-off and pick-up",
+  "category": "bus",
+  "sources": [
+   "eval-auckland-airport v1",
+   "eval-auckland-airport v2"
+  ],
+  "verified": true
+ },
+ {
+  "id": "9225283d080d",
+  "file": "bus/9225283d080d.png",
+  "meaning": "Free inter-terminal transfer bus",
+  "category": "bus",
+  "sources": [
+   "eval-auckland-airport v1"
+  ],
+  "verified": true
+ },
+ {
+  "id": "c80975b23471",
+  "file": "bus/c80975b23471.png",
+  "meaning": "Intercity bus",
+  "category": "bus",
+  "sources": [
+   "eval-auckland-airport v1"
+  ],
+  "verified": true
+ },
+ {
+  "id": "af4a22d6c0f7",
+  "file": "cafe/af4a22d6c0f7.png",
+  "meaning": "Coffee Shop",
+  "category": "cafe",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v1",
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v2"
+  ],
+  "verified": true
+ },
+ {
+  "id": "4ca784e926dc",
+  "file": "cafe/4ca784e926dc.png",
+  "meaning": "Coffee Shop",
+  "category": "cafe",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v3"
+  ],
+  "verified": false
+ },
+ {
+  "id": "dddcbb6ac56b",
+  "file": "check_in/dddcbb6ac56b.png",
+  "meaning": "Check-In",
+  "category": "check_in",
+  "sources": [
+   "eval-brussels-airport-departure v1"
+  ],
+  "verified": true
+ },
+ {
+  "id": "b4aa796a169d",
+  "file": "customs/b4aa796a169d.png",
+  "meaning": "Customs",
+  "category": "customs",
+  "sources": [
+   "eval-brussels-airport-departure v1",
+   "eval-brussels-airport-departure v2"
+  ],
+  "verified": true
+ },
+ {
+  "id": "fd88ae18b007",
+  "file": "customs/fd88ae18b007.png",
+  "meaning": "Customs",
+  "category": "customs",
+  "sources": [
+   "eval-brussels-airport-departure v3"
+  ],
+  "verified": true
+ },
+ {
+  "id": "f74bbc734104",
+  "file": "entrance_exit/f74bbc734104.png",
+  "meaning": "Entry/Exit",
+  "category": "entrance_exit",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v1",
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v2"
+  ],
+  "verified": true
+ },
+ {
+  "id": "715504a3c502",
+  "file": "entrance_exit/715504a3c502.png",
+  "meaning": "Entry/Exit",
+  "category": "entrance_exit",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v3"
+  ],
+  "verified": true
+ },
+ {
+  "id": "bf410e1ac81b",
+  "file": "escalator/bf410e1ac81b.png",
+  "meaning": "Escalator",
+  "category": "escalator",
+  "sources": [
+   "eval-brussels-airport-departure v1",
+   "eval-brussels-airport-departure v2",
+   "eval-brussels-airport-departure v3"
+  ],
+  "verified": true
+ },
+ {
+  "id": "71b200157609",
+  "file": "escalator/71b200157609.png",
+  "meaning": "Escalator",
+  "category": "escalator",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v1",
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v2",
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v3"
+  ],
+  "verified": true
+ },
+ {
+  "id": "2346104e4c2a",
+  "file": "flight_info/2346104e4c2a.png",
+  "meaning": "Flight Info",
+  "category": "flight_info",
+  "sources": [
+   "eval-brussels-airport-departure v1"
+  ],
+  "verified": true
+ },
+ {
+  "id": "b0bb1b63b6e1",
+  "file": "flight_info/b0bb1b63b6e1.png",
+  "meaning": "Flight Info",
+  "category": "flight_info",
+  "sources": [
+   "eval-brussels-airport-departure v2"
+  ],
+  "verified": true
+ },
+ {
+  "id": "ed55abb5569e",
+  "file": "flight_info/ed55abb5569e.png",
+  "meaning": "Flight Info",
+  "category": "flight_info",
+  "sources": [
+   "eval-brussels-airport-departure v3"
+  ],
+  "verified": true
+ },
+ {
+  "id": "aad3ba55e89e",
+  "file": "information/aad3ba55e89e.png",
+  "meaning": "Brussels Airport Information",
+  "category": "information",
+  "sources": [
+   "eval-brussels-airport-departure v1",
+   "eval-brussels-airport-departure v2"
+  ],
+  "verified": true
+ },
+ {
+  "id": "5e2264224c21",
+  "file": "information/5e2264224c21.png",
+  "meaning": "Brussels Airport Information",
+  "category": "information",
+  "sources": [
+   "eval-brussels-airport-departure v3"
+  ],
+  "verified": true
+ },
+ {
+  "id": "ad6048533cc5",
+  "file": "information/ad6048533cc5.png",
+  "meaning": "Information",
+  "category": "information",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v1",
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v2"
+  ],
+  "verified": true
+ },
+ {
+  "id": "da4c3beb14d5",
+  "file": "information/da4c3beb14d5.png",
+  "meaning": "Information",
+  "category": "information",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v3"
+  ],
+  "verified": true
+ },
+ {
+  "id": "b862c09bc5c1",
+  "file": "lift/b862c09bc5c1.png",
+  "meaning": "Elevator",
+  "category": "lift",
+  "sources": [
+   "eval-brussels-airport-departure v1",
+   "eval-brussels-airport-departure v2"
+  ],
+  "verified": true
+ },
+ {
+  "id": "472681c7f107",
+  "file": "lift/472681c7f107.png",
+  "meaning": "Elevator",
+  "category": "lift",
+  "sources": [
+   "eval-brussels-airport-departure v3"
+  ],
+  "verified": true
+ },
+ {
+  "id": "0c2278539a14",
+  "file": "lift/0c2278539a14.png",
+  "meaning": "Lift",
+  "category": "lift",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v1",
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v2"
+  ],
+  "verified": true
+ },
+ {
+  "id": "f3ce1009a66b",
+  "file": "lift/f3ce1009a66b.png",
+  "meaning": "Lift",
+  "category": "lift",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v3"
+  ],
+  "verified": false
+ },
+ {
+  "id": "c75fc1de2316",
+  "file": "lift/c75fc1de2316.png",
+  "meaning": "Lift",
+  "category": "lift",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v3"
+  ],
+  "verified": true
+ },
+ {
+  "id": "170d82a963c5",
+  "file": "lounge/170d82a963c5.png",
+  "meaning": "VIP Lounge",
+  "category": "lounge",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v1",
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v2"
+  ],
+  "verified": true
+ },
+ {
+  "id": "bd34aa20b5d0",
+  "file": "lounge/bd34aa20b5d0.png",
+  "meaning": "VIP Lounge",
+  "category": "lounge",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v3"
+  ],
+  "verified": false
+ },
+ {
+  "id": "de34ff65bb75",
+  "file": "mailbox/de34ff65bb75.png",
+  "meaning": "Mailbox",
+  "category": "mailbox",
+  "sources": [
+   "eval-brussels-airport-departure v1",
+   "eval-brussels-airport-departure v2",
+   "eval-brussels-airport-departure v3"
+  ],
+  "verified": true
+ },
+ {
+  "id": "e99c7c83afc7",
+  "file": "other/e99c7c83afc7.png",
+  "meaning": "Petrol station",
+  "category": "other",
+  "sources": [
+   "eval-auckland-airport v1",
+   "eval-auckland-airport v2"
+  ],
+  "verified": true
+ },
+ {
+  "id": "26c6db2e8621",
+  "file": "other/26c6db2e8621.png",
+  "meaning": "Pick-up Point Online Shop",
+  "category": "other",
+  "sources": [
+   "eval-brussels-airport v2",
+   "eval-brussels-airport v3"
+  ],
+  "verified": true
+ },
+ {
+  "id": "63c9abdd1dc5",
+  "file": "parking/63c9abdd1dc5.png",
+  "meaning": "Accessibility park",
+  "category": "parking",
+  "sources": [
+   "eval-auckland-airport v1",
+   "eval-auckland-airport v2"
+  ],
+  "verified": true
+ },
+ {
+  "id": "d47b4b95dab5",
+  "file": "parking/d47b4b95dab5.png",
+  "meaning": "Accessibility park",
+  "category": "parking",
+  "sources": [
+   "eval-auckland-airport v2"
+  ],
+  "verified": false
+ },
+ {
+  "id": "decb4811fd7a",
+  "file": "parking/decb4811fd7a.png",
+  "meaning": "Bicycle parking",
+  "category": "parking",
+  "sources": [
+   "eval-auckland-airport v1",
+   "eval-auckland-airport v2"
+  ],
+  "verified": true
+ },
+ {
+  "id": "6c691340d378",
+  "file": "parking/6c691340d378.png",
+  "meaning": "Bicycle parking",
+  "category": "parking",
+  "sources": [
+   "eval-auckland-airport v2"
+  ],
+  "verified": true
+ },
+ {
+  "id": "c559440f6085",
+  "file": "parking/c559440f6085.png",
+  "meaning": "Motorbike parking",
+  "category": "parking",
+  "sources": [
+   "eval-auckland-airport v1",
+   "eval-auckland-airport v2"
+  ],
+  "verified": true
+ },
+ {
+  "id": "b9b7ce926f90",
+  "file": "parking/b9b7ce926f90.png",
+  "meaning": "Motorbike parking",
+  "category": "parking",
+  "sources": [
+   "eval-auckland-airport v2"
+  ],
+  "verified": true
+ },
+ {
+  "id": "c5e30edac48d",
+  "file": "parking_payment/c5e30edac48d.png",
+  "meaning": "Parking Payment",
+  "category": "parking_payment",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v1",
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v2"
+  ],
+  "verified": false
+ },
+ {
+  "id": "aae73dc2ad7d",
+  "file": "parking_payment/aae73dc2ad7d.png",
+  "meaning": "Parking Payment",
+  "category": "parking_payment",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v3"
+  ],
+  "verified": false
+ },
+ {
+  "id": "9097a27ff832",
+  "file": "parking_payment/9097a27ff832.png",
+  "meaning": "Parking pay station",
+  "category": "parking_payment",
+  "sources": [
+   "eval-auckland-domestic-terminal-forecourt v2",
+   "eval-auckland-domestic-terminal-forecourt v1"
+  ],
+  "verified": true
+ },
+ {
+  "id": "a09bd8f3b14a",
+  "file": "parking_payment/a09bd8f3b14a.png",
+  "meaning": "Parking pay station",
+  "category": "parking_payment",
+  "sources": [
+   "eval-auckland-domestic-terminal-forecourt v1"
+  ],
+  "verified": true
+ },
+ {
+  "id": "bf52f3ba7cea",
+  "file": "pharmacy/bf52f3ba7cea.png",
+  "meaning": "Airport Pharmacy",
+  "category": "pharmacy",
+  "sources": [
+   "eval-brussels-airport-departure v1",
+   "eval-brussels-airport-departure v2"
+  ],
+  "verified": true
+ },
+ {
+  "id": "a292e543eab5",
+  "file": "pharmacy/a292e543eab5.png",
+  "meaning": "Airport Pharmacy",
+  "category": "pharmacy",
+  "sources": [
+   "eval-brussels-airport-departure v3"
+  ],
+  "verified": true
+ },
+ {
+  "id": "3170a689e72a",
+  "file": "phone/3170a689e72a.png",
+  "meaning": "Public Phone",
+  "category": "phone",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v1",
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v2"
+  ],
+  "verified": true
+ },
+ {
+  "id": "12e1a91eb500",
+  "file": "phone/12e1a91eb500.png",
+  "meaning": "Public Phone",
+  "category": "phone",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v3"
+  ],
+  "verified": true
+ },
+ {
+  "id": "9536ecc564f4",
+  "file": "phone/9536ecc564f4.png",
+  "meaning": "Public Phone",
+  "category": "phone",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v3"
+  ],
+  "verified": true
+ },
+ {
+  "id": "709dc1ab00d2",
+  "file": "pickup_dropoff/709dc1ab00d2.png",
+  "meaning": "Drop-off and pick-up",
+  "category": "pickup_dropoff",
+  "sources": [
+   "eval-auckland-airport v1",
+   "eval-auckland-airport v2"
+  ],
+  "verified": true
+ },
+ {
+  "id": "c059264304aa",
+  "file": "pickup_dropoff/c059264304aa.png",
+  "meaning": "Pick-up Point Online Shop",
+  "category": "pickup_dropoff",
+  "sources": [
+   "eval-brussels-airport-departure v3"
+  ],
+  "verified": true
+ },
+ {
+  "id": "929ec4aece61",
+  "file": "police/929ec4aece61.png",
+  "meaning": "Police",
+  "category": "police",
+  "sources": [
+   "eval-brussels-airport-departure v1",
+   "eval-brussels-airport-departure v2",
+   "eval-brussels-airport-departure v3"
+  ],
+  "verified": true
+ },
+ {
+  "id": "c8f164909730",
+  "file": "prayer_room/c8f164909730.png",
+  "meaning": "Prayer Room",
+  "category": "prayer_room",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v1",
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v2"
+  ],
+  "verified": true
+ },
+ {
+  "id": "ed4fc602a616",
+  "file": "prayer_room/ed4fc602a616.png",
+  "meaning": "Prayer Room",
+  "category": "prayer_room",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v3"
+  ],
+  "verified": false
+ },
+ {
+  "id": "e53bf69fb3ef",
+  "file": "rideshare/e53bf69fb3ef.png",
+  "meaning": "Rideshare (Uber) pick-up",
+  "category": "rideshare",
+  "sources": [
+   "eval-auckland-airport v1",
+   "eval-auckland-airport v2"
+  ],
+  "verified": true
+ },
+ {
+  "id": "8eb9bdfe1cf3",
+  "file": "rideshare/8eb9bdfe1cf3.png",
+  "meaning": "Rideshare drop-off",
+  "category": "rideshare",
+  "sources": [
+   "eval-auckland-airport v1",
+   "eval-auckland-airport v2"
+  ],
+  "verified": true
+ },
+ {
+  "id": "7bd77f74d2c1",
+  "file": "seating_area/7bd77f74d2c1.png",
+  "meaning": "Seating area",
+  "category": "seating_area",
+  "sources": [
+   "eval-brussels-airport-departure v1",
+   "eval-brussels-airport-departure v2"
+  ],
+  "verified": true
+ },
+ {
+  "id": "f9e3c47ee710",
+  "file": "seating_area/f9e3c47ee710.png",
+  "meaning": "Seating area",
+  "category": "seating_area",
+  "sources": [
+   "eval-brussels-airport-departure v3"
+  ],
+  "verified": true
+ },
+ {
+  "id": "7c7d451d1300",
+  "file": "security_check/7c7d451d1300.png",
+  "meaning": "Security Check",
+  "category": "security_check",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v1",
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v2"
+  ],
+  "verified": true
+ },
+ {
+  "id": "cd1419565733",
+  "file": "security_check/cd1419565733.png",
+  "meaning": "Security Check",
+  "category": "security_check",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v3"
+  ],
+  "verified": true
+ },
+ {
+  "id": "e1260f17aad6",
+  "file": "smoking_area/e1260f17aad6.png",
+  "meaning": "Smoking Area",
+  "category": "smoking_area",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v1",
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v2"
+  ],
+  "verified": true
+ },
+ {
+  "id": "bd3a12e30459",
+  "file": "smoking_area/bd3a12e30459.png",
+  "meaning": "Smoking Area",
+  "category": "smoking_area",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v3"
+  ],
+  "verified": false
+ },
+ {
+  "id": "a02216e9ba1b",
+  "file": "special_assistance/a02216e9ba1b.png",
+  "meaning": "Special Assistance Desk",
+  "category": "special_assistance",
+  "sources": [
+   "eval-brussels-airport-departure v1",
+   "eval-brussels-airport-departure v2",
+   "eval-brussels-airport-departure v3"
+  ],
+  "verified": true
+ },
+ {
+  "id": "f45540c8960f",
+  "file": "stairs/f45540c8960f.png",
+  "meaning": "Stairs",
+  "category": "stairs",
+  "sources": [
+   "eval-brussels-airport-departure v1",
+   "eval-brussels-airport-departure v3"
+  ],
+  "verified": true
+ },
+ {
+  "id": "d77323382561",
+  "file": "stairs/d77323382561.png",
+  "meaning": "Stairs",
+  "category": "stairs",
+  "sources": [
+   "eval-brussels-airport-departure v2"
+  ],
+  "verified": true
+ },
+ {
+  "id": "c47b8c0fe171",
+  "file": "stairs/c47b8c0fe171.png",
+  "meaning": "Stairs",
+  "category": "stairs",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v1",
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v2",
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v3"
+  ],
+  "verified": true
+ },
+ {
+  "id": "a96348573277",
+  "file": "stairs/a96348573277.png",
+  "meaning": "Stairs",
+  "category": "stairs",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v3"
+  ],
+  "verified": true
+ },
+ {
+  "id": "82baf390e665",
+  "file": "taxi/82baf390e665.png",
+  "meaning": "Taxi Service",
+  "category": "taxi",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v1",
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v2"
+  ],
+  "verified": false
+ },
+ {
+  "id": "36909b32f821",
+  "file": "taxi/36909b32f821.png",
+  "meaning": "Taxi Service",
+  "category": "taxi",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v3"
+  ],
+  "verified": false
+ },
+ {
+  "id": "c9e14a59f5f0",
+  "file": "taxi/c9e14a59f5f0.png",
+  "meaning": "Taxi drop-off",
+  "category": "taxi",
+  "sources": [
+   "eval-auckland-airport v1",
+   "eval-auckland-airport v2"
+  ],
+  "verified": true
+ },
+ {
+  "id": "a6b1022b6d17",
+  "file": "toilet/a6b1022b6d17.png",
+  "meaning": "Toilet - Female",
+  "category": "toilet",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v1"
+  ],
+  "verified": true
+ },
+ {
+  "id": "ec141cc5bcfb",
+  "file": "toilet/ec141cc5bcfb.png",
+  "meaning": "Toilet - Male",
+  "category": "toilet",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v1",
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v2"
+  ],
+  "verified": true
+ },
+ {
+  "id": "d954ecb23aae",
+  "file": "toilet/d954ecb23aae.png",
+  "meaning": "Toilet - Male",
+  "category": "toilet",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v3"
+  ],
+  "verified": true
+ },
+ {
+  "id": "87ca1d4cda3c",
+  "file": "toilet/87ca1d4cda3c.png",
+  "meaning": "Toilet - Male",
+  "category": "toilet",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v3"
+  ],
+  "verified": true
+ },
+ {
+  "id": "4af57dc3bc84",
+  "file": "toilet/4af57dc3bc84.png",
+  "meaning": "Toilets",
+  "category": "toilet",
+  "sources": [
+   "eval-brussels-airport-departure v1"
+  ],
+  "verified": true
+ },
+ {
+  "id": "f1dad4d56d63",
+  "file": "toilet/f1dad4d56d63.png",
+  "meaning": "Toilets",
+  "category": "toilet",
+  "sources": [
+   "eval-brussels-airport-departure v2"
+  ],
+  "verified": true
+ },
+ {
+  "id": "be18d126b45e",
+  "file": "toilet/be18d126b45e.png",
+  "meaning": "Toilets",
+  "category": "toilet",
+  "sources": [
+   "eval-brussels-airport-departure v3"
+  ],
+  "verified": true
+ },
+ {
+  "id": "05e617eb1029",
+  "file": "toilet/05e617eb1029.png",
+  "meaning": "Toilets - M/F",
+  "category": "toilet",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v1"
+  ],
+  "verified": true
+ },
+ {
+  "id": "733ad75f0d2c",
+  "file": "train/733ad75f0d2c.png",
+  "meaning": "Train",
+  "category": "train",
+  "sources": [
+   "eval-brussels-airport-departure v1"
+  ],
+  "verified": true
+ },
+ {
+  "id": "09a1cfa24358",
+  "file": "train/09a1cfa24358.png",
+  "meaning": "Train",
+  "category": "train",
+  "sources": [
+   "eval-brussels-airport-departure v2"
+  ],
+  "verified": true
+ },
+ {
+  "id": "febda5ba7bdf",
+  "file": "train/febda5ba7bdf.png",
+  "meaning": "Train",
+  "category": "train",
+  "sources": [
+   "eval-brussels-airport-departure v3"
+  ],
+  "verified": true
+ },
+ {
+  "id": "02137fe86c2d",
+  "file": "transfer_desk/02137fe86c2d.png",
+  "meaning": "Transfer Desk",
+  "category": "transfer_desk",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v1",
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v2"
+  ],
+  "verified": true
+ },
+ {
+  "id": "bb238252efef",
+  "file": "transfer_desk/bb238252efef.png",
+  "meaning": "Transfer Desk",
+  "category": "transfer_desk",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v3"
+  ],
+  "verified": false
+ },
+ {
+  "id": "a5e4b85e685a",
+  "file": "travelator/a5e4b85e685a.png",
+  "meaning": "Travalator",
+  "category": "travelator",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v1",
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v2"
+  ],
+  "verified": true
+ },
+ {
+  "id": "1878cffd6e35",
+  "file": "travelator/1878cffd6e35.png",
+  "meaning": "Travalator",
+  "category": "travelator",
+  "sources": [
+   "eval-terminal-1-map-2015-r3-tcm13-4100-1 v3"
+  ],
+  "verified": false
+ }
+]

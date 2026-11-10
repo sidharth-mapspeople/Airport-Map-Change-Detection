@@ -1,0 +1,164 @@
+{
+  "cases": [
+    {
+      "id": "auh-t1-edits",
+      "kind": "edit",
+      "baseline": "Test_files/Terminal 1 map_2015_R3_tcm13-4100 (1).pdf",
+      "variant": "Test_files_edited/auh_t1_edited.pdf",
+      "description": "Legend renames (2 cafés/restaurants, 1 transfer desk); one toilet icon removed; one added elsewhere.",
+      "expected": [
+        {
+          "type": "replaced",
+          "old_name": "Culto Café",
+          "new_name": "Costa Coffee"
+        },
+        {
+          "type": "replaced",
+          "old_name": "McDonald's",
+          "new_name": "Burger King"
+        },
+        {
+          "type": "replaced",
+          "old_name": "Etihad Transfer Desk",
+          "new_name": "Qatar Transfer Desk"
+        },
+        {
+          "type": "removed",
+          "category": "toilet",
+          "at": [
+            0.5081,
+            0.6204
+          ]
+        },
+        {
+          "type": "added",
+          "category": "toilet",
+          "at": [
+            0.542,
+            0.5757
+          ]
+        }
+      ]
+    },
+    {
+      "id": "auh-t1-restyle",
+      "kind": "restyle",
+      "baseline": "Test_files/Terminal 1 map_2015_R3_tcm13-4100 (1).pdf",
+      "variant": "Test_files_edited/auh_t1_rasterised.jpg",
+      "description": "Vector PDF rasterised to JPEG: no text layer, identical content.",
+      "expected": []
+    },
+    {
+      "id": "akl-domestic-edits",
+      "kind": "edit",
+      "baseline": "Test_files/auckland_Domestic-Terminal-Forecourt.pdf",
+      "variant": "Test_files_edited/akl_domestic_edited.pdf",
+      "description": "Legend renames of two transport services; printed date April → October 2026 (metadata only).",
+      "expected": [
+        {
+          "type": "replaced",
+          "old_name": "Rideshare (Uber)",
+          "new_name": "Rideshare (Ola)"
+        },
+        {
+          "type": "replaced",
+          "old_name": "Supershuttle",
+          "new_name": "SkyBus"
+        }
+      ],
+      "expected_map_date": "October 2026"
+    },
+    {
+      "id": "akl-overview-edits",
+      "kind": "edit",
+      "baseline": "Test_files/auckland_airport.pdf",
+      "variant": "Test_files_edited/akl_overview_edited.pdf",
+      "description": "Amenity legend: hotel and restaurant replaced by new tenants.",
+      "expected": [
+        {
+          "type": "replaced",
+          "old_name": "Ibis Budget Hotel",
+          "new_name": "Holiday Inn Express"
+        },
+        {
+          "type": "replaced",
+          "old_name": "Kuriri Cafe and te Kaahu Restaurant",
+          "new_name": "Jamie's Italian"
+        }
+      ]
+    },
+    {
+      "id": "bru-departure-edits",
+      "kind": "edit",
+      "baseline": "Test_files/brussels_airport_departure.jpg",
+      "variant": "Test_files_edited/bru_departure_edited.jpg",
+      "description": "Café rename in legend; Emirates moved desk 14 → 5; TAROM removed from desk table; one toilet icon removed; one lift icon added.",
+      "expected": [
+        {
+          "type": "replaced",
+          "old_name": "Starbucks",
+          "new_name": "Costa Coffee"
+        },
+        {
+          "type": "relation_changed",
+          "subject": "Emirates",
+          "old_object": "14",
+          "new_object": "5"
+        },
+        {
+          "type": "relation_removed",
+          "subject": "TAROM"
+        },
+        {
+          "type": "removed",
+          "category": "toilet",
+          "at": [
+            0.5936,
+            0.4269
+          ]
+        },
+        {
+          "type": "added",
+          "category": "lift",
+          "at": [
+            0.7627,
+            0.508
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bru-departure-restyle",
+      "kind": "restyle",
+      "baseline": "Test_files/brussels_airport_departure.jpg",
+      "variant": "Test_files_edited/bru_departure_restyled.jpg",
+      "description": "Hue rotated 56°, scaled to 92 % and shifted; content identical.",
+      "expected": []
+    },
+    {
+      "id": "bru-overview-edits",
+      "kind": "edit",
+      "baseline": "Test_files/brussels_airport.jpg",
+      "variant": "Test_files_edited/bru_overview_edited.jpg",
+      "description": "One toilet icon removed from the isometric overview.",
+      "expected": [
+        {
+          "type": "removed",
+          "category": "toilet",
+          "at": [
+            0.7772,
+            0.7448
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bru-overview-restyle",
+      "kind": "restyle",
+      "baseline": "Test_files/brussels_airport.jpg",
+      "variant": "Test_files_edited/bru_overview_restyled.jpg",
+      "description": "Hue rotated −42° and recompressed; content identical.",
+      "expected": []
+    }
+  ]
+}

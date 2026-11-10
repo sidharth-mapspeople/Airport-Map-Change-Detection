@@ -1,0 +1,257 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Floorplan Change Detection</title>
+<style>
+  :root {
+    --bg: #f7f7f5; --surface: #ffffff; --ink: #1d1f23; --muted: #5d636e; --line: #9aa1ad;
+    --agent: #e8effc; --agent-edge: #3a6fd8; --agent-ink: #1f4fae;
+    --step: #ffffff; --step-edge: #c4c9d2;
+    --decide: #fff4dc; --decide-edge: #c58a12;
+    --store: #e5f5ec; --store-edge: #2f9461;
+    --loop: #b4542c; --out: #1d1f23; --out-ink: #ffffff;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #15171b; --surface: #1d2026; --ink: #e8eaee; --muted: #a2a8b3; --line: #6c7380;
+      --agent: #1c2a45; --agent-edge: #6d9bf0; --agent-ink: #a9c4f7;
+      --step: #1d2026; --step-edge: #3b414c;
+      --decide: #3a2f17; --decide-edge: #e0a83a;
+      --store: #17352a; --store-edge: #4fbf88;
+      --loop: #e58a62; --out: #e8eaee; --out-ink: #15171b;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #15171b; --surface: #1d2026; --ink: #e8eaee; --muted: #a2a8b3; --line: #6c7380;
+    --agent: #1c2a45; --agent-edge: #6d9bf0; --agent-ink: #a9c4f7;
+    --step: #1d2026; --step-edge: #3b414c;
+    --decide: #3a2f17; --decide-edge: #e0a83a;
+    --store: #17352a; --store-edge: #4fbf88;
+    --loop: #e58a62; --out: #e8eaee; --out-ink: #15171b;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink);
+         font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, sans-serif; }
+  main { max-width: 1000px; margin: 0 auto; padding: 32px 16px 48px; }
+  h1 { font-size: 26px; margin: 0 0 6px; letter-spacing: -0.01em; }
+  .lede { color: var(--muted); margin: 0 0 24px; max-width: 70ch; }
+  .card { background: var(--surface); border: 1px solid var(--step-edge); border-radius: 14px; padding: 20px; }
+  svg { width: 100%; height: auto; display: block; }
+  svg text { fill: var(--ink); font-family: inherit; }
+  .t { font-size: 15px; font-weight: 650; }
+  .s { font-size: 12.5px; fill: var(--muted); }
+  .eyebrow { font-size: 11px; font-weight: 700; letter-spacing: 0.08em; fill: var(--agent-ink); }
+  .lbl { font-size: 12px; fill: var(--muted); }
+  .lbl-loop { font-size: 12px; fill: var(--loop); font-weight: 600; }
+  .agent { fill: var(--agent); stroke: var(--agent-edge); stroke-width: 1.5; }
+  .step { fill: var(--step); stroke: var(--step-edge); stroke-width: 1.2; }
+  .decide { fill: var(--decide); stroke: var(--decide-edge); stroke-width: 1.5; }
+  .store { fill: var(--store); stroke: var(--store-edge); stroke-width: 1.5; }
+  .out { fill: var(--out); }
+  .out-t { fill: var(--out-ink); font-size: 14px; font-weight: 650; }
+  .flow { stroke: var(--line); stroke-width: 1.6; fill: none; }
+  .loop { stroke: var(--loop); stroke-width: 1.6; fill: none; }
+  .dash { stroke-dasharray: 5 4; }
+  .legend { display: flex; flex-wrap: wrap; gap: 16px; margin: 14px 0 0; color: var(--muted); font-size: 13px; }
+  .legend span::before { content: ""; display: inline-block; width: 12px; height: 12px; border-radius: 3px;
+                         margin-right: 6px; vertical-align: -1px; border: 1.5px solid; }
+  .k-agent::before { background: var(--agent); border-color: var(--agent-edge) !important; }
+  .k-step::before { background: var(--step); border-color: var(--step-edge) !important; }
+  .k-decide::before { background: var(--decide); border-color: var(--decide-edge) !important; }
+  .k-loop { color: var(--loop); }
+  .k-loop::before { height: 0 !important; border-width: 1px 0 !important; border-color: var(--loop) !important; vertical-align: 4px !important; }
+  .k-store::before { background: var(--store); border-color: var(--store-edge) !important; }
+  h2 { font-size: 18px; margin: 36px 0 12px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; }
+  .grid h3 { font-size: 15px; margin: 0 0 8px; }
+  .grid ul { margin: 0; padding-left: 18px; }
+  .grid li { margin: 3px 0; }
+  table { width: 100%; border-collapse: collapse; font-size: 14px; }
+  th, td { text-align: left; padding: 9px 10px; border-bottom: 1px solid var(--step-edge); vertical-align: top; }
+  th { color: var(--muted); font-weight: 600; font-size: 12.5px; text-transform: uppercase; letter-spacing: 0.05em; }
+  .table-wrap { overflow-x: auto; }
+  code { font: 13px ui-monospace, SFMono-Regular, Menlo, monospace; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Floorplan Change Detection</h1>
+  <p class="lede">How a new airport floorplan (PDF or image) is turned into a structured map of what is where,
+    quality-checked, compared with the previous version, and reported as a list of real changes.
+    Colour, icon and layout restyles are deliberately ignored.</p>
+
+  <div class="card">
+    <svg viewBox="0 0 940 1140" role="img" aria-label="Pipeline flow diagram">
+      <defs>
+        <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+          <path d="M0 0 L10 5 L0 10 z" style="fill: var(--line)"/>
+        </marker>
+        <marker id="arr-loop" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+          <path d="M0 0 L10 5 L0 10 z" style="fill: var(--loop)"/>
+        </marker>
+      </defs>
+
+      <!-- Input -->
+      <rect class="step" x="130" y="16" width="460" height="56" rx="28"/>
+      <text class="t" x="360" y="40" text-anchor="middle">New floorplan file</text>
+      <text class="s" x="360" y="59" text-anchor="middle">PDF or image · map ID (e.g. bru-departures)</text>
+      <path class="flow" d="M360 72 V102" marker-end="url(#arr)"/>
+
+      <!-- Ingest -->
+      <rect class="step" x="130" y="104" width="460" height="72" rx="10"/>
+      <text class="t" x="360" y="130" text-anchor="middle">Ingest</text>
+      <text class="s" x="360" y="149" text-anchor="middle">Skip if byte-identical to the latest version</text>
+      <text class="s" x="360" y="166" text-anchor="middle">Render pages at high resolution · read the PDF text layer</text>
+      <path class="flow" d="M360 176 V204" marker-end="url(#arr)"/>
+
+      <!-- Agent 1 -->
+      <rect class="agent" x="130" y="206" width="460" height="96" rx="10"/>
+      <text class="eyebrow" x="360" y="227" text-anchor="middle">AGENT 1</text>
+      <text class="t" x="360" y="246" text-anchor="middle">Understand the floorplan</text>
+      <text class="s" x="360" y="266" text-anchor="middle">Read layout &amp; legend → scan tiles in parallel → verify coverage</text>
+      <text class="s" x="360" y="284" text-anchor="middle">Output: snapshot JSON — every label with category, name, position</text>
+      <path class="flow" d="M360 302 V330" marker-end="url(#arr)"/>
+
+      <!-- Agent 2 -->
+      <rect class="agent" x="130" y="332" width="460" height="80" rx="10"/>
+      <text class="eyebrow" x="360" y="353" text-anchor="middle">AGENT 2</text>
+      <text class="t" x="360" y="372" text-anchor="middle">Mapping confidence</text>
+      <text class="s" x="360" y="392" text-anchor="middle">Each entry checked against image crops and PDF text</text>
+      <path class="flow" d="M360 412 V440" marker-end="url(#arr)"/>
+
+      <!-- Decision 1 -->
+      <polygon class="decide" points="360,442 490,490 360,538 230,490"/>
+      <text class="t" x="360" y="487" text-anchor="middle">Average ≥ 0.9?</text>
+      <text class="s" x="360" y="505" text-anchor="middle">mapping confidence</text>
+
+      <!-- Agent 3: correction loop -->
+      <path class="loop" d="M490 490 H648" marker-end="url(#arr-loop)"/>
+      <text class="lbl-loop" x="569" y="482" text-anchor="middle">No</text>
+      <rect class="agent" x="650" y="440" width="270" height="100" rx="10"/>
+      <text class="eyebrow" x="785" y="462" text-anchor="middle">AGENT 3</text>
+      <text class="t" x="785" y="481" text-anchor="middle">Correct the mapping</text>
+      <text class="s" x="785" y="501" text-anchor="middle">Fix, remove or add entries</text>
+      <text class="s" x="785" y="519" text-anchor="middle">At most 1 round</text>
+      <path class="loop" d="M785 440 V372 H592" marker-end="url(#arr-loop)"/>
+      <text class="lbl-loop" x="690" y="364" text-anchor="middle">re-score changed entries</text>
+      <path class="loop dash" d="M785 540 V560 H368" marker-end="url(#arr-loop)"/>
+      <text class="lbl-loop" x="600" y="553" text-anchor="middle">after 1 round: continue with best result</text>
+
+      <path class="flow" d="M360 538 V576" marker-end="url(#arr)"/>
+      <text class="lbl" x="350" y="552" text-anchor="end">Yes</text>
+
+      <!-- Decision 2 -->
+      <polygon class="decide" points="360,578 490,626 360,674 230,626"/>
+      <text class="t" x="360" y="623" text-anchor="middle">Previous version?</text>
+      <text class="s" x="360" y="641" text-anchor="middle">for this map ID</text>
+      <path class="flow" d="M490 626 H658" marker-end="url(#arr)"/>
+      <text class="lbl" x="574" y="618" text-anchor="middle">No → save as v1</text>
+      <path class="flow" d="M360 674 V702" marker-end="url(#arr)"/>
+      <text class="lbl" x="372" y="694">Yes</text>
+
+      <!-- Version store -->
+      <path class="store" d="M660 600 V780 A130 18 0 0 0 920 780 V600"/>
+      <ellipse class="store" cx="790" cy="600" rx="130" ry="18"/>
+      <text class="t" x="790" y="650" text-anchor="middle">Version store</text>
+      <text class="s" x="790" y="672" text-anchor="middle">data/&lt;map_id&gt;/versions/</text>
+      <text class="s" x="790" y="690" text-anchor="middle">v0001, v0002 … snapshot.json</text>
+      <text class="s" x="790" y="708" text-anchor="middle">changes/vA_to_vB.md + .json</text>
+
+      <!-- Agent 4 -->
+      <rect class="agent" x="130" y="704" width="460" height="104" rx="10"/>
+      <text class="eyebrow" x="360" y="725" text-anchor="middle">AGENT 4</text>
+      <text class="t" x="360" y="744" text-anchor="middle">Detect changes</text>
+      <text class="s" x="360" y="764" text-anchor="middle">Align old and new by content (ignores colour, scale, shift)</text>
+      <text class="s" x="360" y="782" text-anchor="middle">Match entries by identity, then by position</text>
+      <text class="s" x="360" y="799" text-anchor="middle">Compare relations, e.g. airline → check-in desk</text>
+      <path class="flow" d="M658 750 H592" marker-end="url(#arr)"/>
+      <text class="lbl" x="625" y="742" text-anchor="middle">previous</text>
+      <path class="flow" d="M360 808 V836" marker-end="url(#arr)"/>
+
+      <!-- Agent 5 -->
+      <rect class="agent" x="130" y="838" width="460" height="96" rx="10"/>
+      <text class="eyebrow" x="360" y="859" text-anchor="middle">AGENT 5</text>
+      <text class="t" x="360" y="878" text-anchor="middle">Change confidence</text>
+      <text class="s" x="360" y="898" text-anchor="middle">Old vs new crops reviewed side by side for each change</text>
+      <text class="s" x="360" y="916" text-anchor="middle">Score → accept · flag for review (&lt; 0.7) · reject false alarm</text>
+      <path class="flow" d="M360 934 V962" marker-end="url(#arr)"/>
+
+      <!-- Agent 6 -->
+      <rect class="agent" x="130" y="964" width="460" height="72" rx="10"/>
+      <text class="eyebrow" x="360" y="985" text-anchor="middle">AGENT 6</text>
+      <text class="t" x="360" y="1004" text-anchor="middle">Report</text>
+      <text class="s" x="360" y="1023" text-anchor="middle">Readable Markdown + machine-readable JSON</text>
+      <path class="flow" d="M590 1000 H790 V800" marker-end="url(#arr)"/>
+      <text class="lbl" x="700" y="992" text-anchor="middle">save new version + report</text>
+      <path class="flow" d="M360 1036 V1064" marker-end="url(#arr)"/>
+
+      <!-- Output -->
+      <rect class="out" x="130" y="1066" width="460" height="56" rx="28"/>
+      <text class="out-t" x="360" y="1090" text-anchor="middle">Change report</text>
+      <text class="out-t" x="360" y="1108" text-anchor="middle" style="font-weight:400;font-size:12.5px">Café X → Café Y · desk 14 → 5 · toilet removed · lift added</text>
+    </svg>
+    <div class="legend">
+      <span class="k-agent">AI agent (vision model)</span>
+      <span class="k-step">Deterministic step</span>
+      <span class="k-decide">Decision</span>
+      <span class="k-store">Storage</span>
+      <span class="k-loop">Quality loop</span>
+    </div>
+  </div>
+
+  <h2>What counts as a change</h2>
+  <div class="grid">
+    <div class="card">
+      <h3>Reported</h3>
+      <ul>
+        <li><b>Replaced</b> — Starbucks → Costa Coffee in the same spot</li>
+        <li><b>Repurposed</b> — a shop becomes a toilet</li>
+        <li><b>Added / removed</b> — a new lift, a missing ATM</li>
+        <li><b>Moved</b> — the same prayer room in a new location</li>
+        <li><b>Renamed</b> — small name changes on the same place</li>
+        <li><b>Relation changed</b> — Emirates moves from desk 14 to desk 5</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h3>Ignored (presentation only)</h3>
+      <ul>
+        <li>New colour scheme or icon style</li>
+        <li>Map rescaled, shifted or exported in a different format</li>
+        <li>Legend reordered or marker codes renumbered</li>
+        <li>Café ↔ restaurant reclassification of the same place</li>
+        <li>Re-uploading a byte-identical file (skipped entirely)</li>
+      </ul>
+    </div>
+  </div>
+
+  <h2>Agents at a glance</h2>
+  <div class="card table-wrap">
+    <table>
+      <thead><tr><th>#</th><th>Agent</th><th>Job</th><th>Rule</th></tr></thead>
+      <tbody>
+        <tr><td>1</td><td>Understanding</td><td>Reads the legend and scans the map tile by tile to list every label: toilets, desks, cafés, lifts, gates…</td><td>Fixed category list, positions on a 0–1 page grid</td></tr>
+        <tr><td>2</td><td>Mapping confidence</td><td>A sceptical reviewer scores each entry against image crops; PDF text is used as hard evidence</td><td>Average must be ≥ 0.9</td></tr>
+        <tr><td>3</td><td>Correction</td><td>Fixes the entries the reviewer doubted; only changed entries are re-scored</td><td>Max 1 round, then continue</td></tr>
+        <tr><td>4</td><td>Change detection</td><td>Aligns the old and new maps and pairs up entries to find what really changed</td><td>Meaning only, never styling</td></tr>
+        <tr><td>5</td><td>Change confidence</td><td>Looks at old vs new crops for each change to confirm it is real</td><td>Visual check 60 % + mapping evidence 40 %</td></tr>
+        <tr><td>6</td><td>Reporting</td><td>Writes the change report and stores the new version</td><td>Rejected changes listed separately</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h2>Under the hood</h2>
+  <div class="grid">
+    <div class="card">
+      <h3>Model-agnostic</h3>
+      <p style="margin:0">Agents talk to a neutral vision-model interface. Claude is used today; Gemini or GPT can be plugged in without changing the agents.</p>
+    </div>
+    <div class="card">
+      <h3>Tested on synthetic edits</h3>
+      <p style="margin:0">8 edited copies of real MapsPeople maps (renamed cafés, moved desks, removed toilets, plus recoloured &amp; rescaled copies) measure recall and false alarms.</p>
+    </div>
+  </div>
+</main>
+</body>
+</html>
